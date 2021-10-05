@@ -1,15 +1,3 @@
-# Markdown Cheat Sheet
-
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
-
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
-
-## Basic Syntax
-
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
-
-### Heading
-
 # H1
 ## H2
 ### H3
@@ -52,7 +40,7 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Image
 
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F8162843062537104%2F&psig=AOvVaw03znDIrN6p9DoR1Swn9Pt5&ust=1633544261013000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjdkd3ws_MCFQAAAAAdAAAAABAD)
 
 ## Extended Syntax
 
