@@ -40,7 +40,7 @@
 
 ### Image
 
-![alt text](http://bit.ly/3uJlViP)
+![Painel Firenze](http://github.com/RadLuli/Ampersand/blob/main/Firenze.png)
 
 ## Extended Syntax
 
