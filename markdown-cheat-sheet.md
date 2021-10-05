@@ -40,7 +40,7 @@
 
 ### Image
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F8162843062537104%2F&psig=AOvVaw03znDIrN6p9DoR1Swn9Pt5&ust=1633544261013000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjdkd3ws_MCFQAAAAAdAAAAABAD)
+![alt text](http://bit.ly/3uJlViP)
 
 ## Extended Syntax
 
