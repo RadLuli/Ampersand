@@ -1,5 +1,5 @@
 ## Ampersand
-is an electronic book ( [hardware](http://www.luli.com.br) (/DEFS/HARDWARE/Ampersand.md) or digital format and reading app), focused on readers' inputs and their social applications. Annotations are optimized and grouped in radial diagrams, and can be public or private. E-books or electronic text documents are imported into the format and can be read as usual. A mesh is created and optimized to help users to take notes and to locate the content in the information landscape.
+is an electronic book ([hardware](HARDWARE/_hardware.md) or digital format and reading app), focused on readers' inputs and their social applications. Annotations are optimized and grouped in radial diagrams, and can be public or private. E-books or electronic text documents are imported into the format and can be read as usual. A mesh is created and optimized to help users to take notes and to locate the content in the information landscape.
 
 https://medium.com/black-lion-banner/the-history-of-the-ampersand-c81839171940
 http://en.wikipedia.org/wiki/Application-specific_integrated_circuit
