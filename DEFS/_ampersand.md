@@ -1,5 +1,5 @@
 ## Ampersand
-is an [electronic book](link) ([hardware](HARDWARE/_hardware.md) or [digital format](link) and [reading application](link)), focused on [readers' inputs](link) and their [social applications](link). Annotations are [optimised](link), grouped in [radial diagrams](link), and [located](link) in the [information landscape](link).
+is an [electronic book](ebook.md) ([hardware](HARDWARE/_hardware.md) or [digital format](link) and [reading application](link)), focused on [readers' inputs](link) and their [social applications](link). Annotations are [optimised](link), grouped in [radial diagrams](link), and [located](link) in the [information landscape](link).
 
 https://medium.com/black-lion-banner/the-history-of-the-ampersand-c81839171940
 http://en.wikipedia.org/wiki/Application-specific_integrated_circuit
