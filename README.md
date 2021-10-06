@@ -9,7 +9,6 @@ The **Ampersand[^1] Project** is a new kind of e-Book, a combination of
 
 
 
-[^1]: Ampersand is a is a ligature of the letters "E" and "T". It comes from the Latin word *et* (and). As the Roman Empire expanded, many languages absorbed this ligature into their alphabets.
-The word came from an alteration of the phrase *“et, per se and”* (*“et by itself [means] and”*), which became *“and, per-se and”*, and then *ampersand*. - see https://bit.ly/3DgFMsV.
+[^1]: "The ampersand is a symbol evolved from the Latin *et*, meaning *and*. One of the oldest alphabetic abbreviations, it has assumed over the centuries a wonderful variety of forms. (...) The word came from an alteration of the phrase *“et, per se and”* (*“et by itself [means] and”*), which became *“and, per-se and”*, and then *ampersand*." - Robert Bringhurst, *The Elements of Typographic Style*  p. 78, 301 - https://bit.ly/2YqBWyl.
 
-The idea is to reinforce the collaborative aspect of the format, as in *Reader & book*.
+The name is used to reinforce the collaborative aspect of the format, as in *Reader & book*.
