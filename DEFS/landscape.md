@@ -3,7 +3,7 @@
 
 An **information landscape** is a graphic metaphor to visualize abstract data groups in different depth levels. Its visitors can use different "vehicles" and follow different routes to get to the information needed - e. g. a "guided tour bus" gives an overview of the journey, with a broad scope, but little freedom, while "walking aimlessly" leads to the opposite. The idea here is to provide a single information structure, to be experienced in different ways.
 
-**Locations** in the info landscape are addresses in the graphic representation of the content. Classification systems, like the *Library of \[US\] Congress Classification*[^1], the *Dewey Decimal Classification*[^2], *Wikipedia Categories*[^3] and number addressing systems like *ISBN*[^4] can be used.
+**Locations** in the information landscape are addresses in the graphic representation of the content. Classification systems, like the *Library of \[US\] Congress Classification*[^1], the *Dewey Decimal Classification*[^2], *Wikipedia Categories*[^3] and number addressing systems like *ISBN*[^4] can be used.
 
 
 
