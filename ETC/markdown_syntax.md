@@ -40,11 +40,11 @@
 
 ### Image
 
-![Ampersand Firenze](https://github.com/RadLuli/Ampersand/blob/main/Ampersand.png)
+![Ampersand Firenze](Ampersand.png)
 
 ## Extended Syntax
 
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+These elements extend the basic syntax by adding features. Not all Markdown applications support these elements.
 
 ### Table
 

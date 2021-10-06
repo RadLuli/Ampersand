@@ -5,7 +5,7 @@ An information landscape is a graphic metaphor to visualize abstract data groups
 Locations in the info landscape are the addresses in the graphic representation of the content. Number systems like ISBN can be used.
 Readers which develop public meshes become ﻿collaborators, coworkers whose work comes along with the original, to be read as a comment, like a preface or a workbook.
 
-http://en.wikipedia.org/wiki/International_Standard_Book_Number	http://en.wikipedia.org/wiki/International_Standard_Book_Number
+http://en.wikipedia.org/wiki/International_Standard_Book_Number
 The International Standard Book Number (ISBN) is an unique numeric commercial book identifier, purchased from the International ISBN Agency and its affiliates. The number is 10 digits long if assigned before 2007, and 13 digits long after that. The assigning method is nation-specific and varies between countries, often depending on how large the publishing industry is. Article on using ISBN as Uniform Resource Names: http://datatracker.ietf.org/doc/html/rfc3187	http://datatracker.ietf.org/doc/html/rfc3187
 http://en.wikipedia.org/wiki/Library_of_Congress_Classification	http://en.wikipedia.org/wiki/Library_of_Congress_Classification
 The Library of Congress Classification is a system of library classification used for shelving books in a library. It has been criticized for lacking a sound theoretical basis; many of the classification decisions were driven by the practical needs of that library rather than epistemological considerations. Although it divides subjects into broad categories, it is essentially enumerative in nature. That is, it provides a guide to the books actually in one library's collections, not a classification of the world.
