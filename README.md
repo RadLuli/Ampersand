@@ -1,7 +1,4 @@
-# Ampersand
-Ampersand eBook project
-
-## Definições:
+# Definições:
 
 Ampersand é um livro eletrônico (hardware + software) apoiado nos contribuições dos eleitores registradas na marginália e suas aplicações sociais. As anotações são agrupadas em mind maps e podem ser públicas ou privadas.
 
