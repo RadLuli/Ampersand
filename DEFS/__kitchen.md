@@ -1,18 +1,13 @@
 # Kitchen Sink
 
-
-
-http://www.open-mesh.org/projects/open-mesh/wiki	http://www.open-mesh.org/projects/open-mesh/wiki
-http://en.wikipedia.org/wiki/Wireless_ad_hoc_network	http://en.wikipedia.org/wiki/Wireless_ad_hoc_network
-B. A. T. M. A. N. (better approach to mobile ad-hoc networking) is a routing protocol for multi-hop ad-hoc mesh networks under development by the German "Freifunk" community. It is focused on the decentralization of knowledge about the best route through the network — no single node has all the data. This technique eliminates the need to spread information about network changes to every node in the network. Data gets passed from node to node, and packets get individual, dynamically created routes. 	
-A wireless ad hoc network (WANET) or mobile ad hoc network (MANET) is a decentralized type of wireless network. It is "ad hoc" because it does not rely on a pre-existing infrastructure, such as routers or access points. Each node participates in routing by forwarding data for other nodes, so the determination of which nodes forward data is made dynamically on the basis of network connectivity and the routing algorithm in use.   In the Windows operating system, ad hoc is a communication mode (setting) that allows computers to directly communicate with each other without a router. Wireless mobile ad hoc networks are self-configuring, dynamic networks in which nodes are free to move.
+a
 Reading Application to be used in generic devices and desktop apps. Must haves: e-book readerAccess to camera / filesRadial diagramming softwareNote-taking Audio recording
 Notes can only become public when their author is logged to the system, even if offline. Only logged users can submit content, comment or act on the network.   Unpublished user-created meshes are considered scrapbooks, and can be made from scratch; from system-generated meshes; or from public meshes.
 Welcome add-ons: OCR Voice- recognition Machine vision
 Reader's inputs (which, in printed books, are recorded in marginalia) can be of any form available (recordings, dictations, selected excerpts, drawings, handwritten text, photos, videos and links)
 Social applications: ﻿most digital readers allow for sharing and commenting book excerpts through social media, but usually in a non-structured way, that may focus on one or more passages, but rarely on the book as a whole. By sharing whole book annotations, Ampersands can turn books into focused social media, comparing  approaches and readings out of the same subject.
 http://elixir-lang.org/	http://elixir-lang.org/
-Distributed processing: functional programming languages like Elixir can be used for back-end,  known for running low-latency, distributed, and fault-tolerant systems. 	
+Distributed processing: functional programming languages like Elixir can be used for back-end,  known for running low-latency, distributed, and fault-tolerant systems.
 Radial diagrams are used to visually organize information hierarchically, showing the relationships among pieces of the whole. They are often created around a single concept in the center, to which associated representations of ideas are added. Major ideas are connected directly to the central concept, and other concepts branch out from them.
 The system is designed to work seamlessly, no matter its connection status. In offline mode, all social features will be disabled, and some activities, like mesh upload or update can be stored for later usage.
 AI content management: all non-public user content is regarded as private, to be ignored by all platform management. Cloud backups, when available, are to be encoded through cryptography. All public data, graphs and user blockchain databases processing is to be distributed among all connected hardware and apps.
