@@ -1,5 +1,5 @@
 # Mesh
-Annotation Format
+*Annotation Format*
 
 Radial diagrams are used to visually organize information hierarchically, showing the relationships among pieces of the whole. They are often created around a single concept in the center, to which associated representations of ideas are added. Major ideas are connected directly to the central concept, and other concepts branch out from them.
 

@@ -1,10 +1,20 @@
-# Reading Application
-Application
+# Reader
+*Application*
 
-Reading Application to be used in generic devices and desktop apps. Must haves: e-book readerAccess to camera / filesRadial diagramming softwareNote-taking Audio recording
+The *Ampersand* is the [OAF](oaf.md) reader application, the default application in dedicated devices and the free, open source app to install in generic smartphones, tablets and desktop apps.
 
+**Must-have** features:
+- e-book reader
+- Access to camera
+- Access to files
+- Text highlighting
+- Text selecting
+- Note-taking
+- Web access / link sharing
+- Mesh diagramming
+- Social networking
 
-http://elixir-lang.org/	http://elixir-lang.org/
-Distributed processing: functional programming languages like Elixir can be used for back-end,  known for running low-latency, distributed, and fault-tolerant systems.
-
-User blockchain database: all public content is registered in a blockchain database, and can be traced to its owner. Bots are not allowed and should be blocked without previous notice. Unsuitable content can result in hardware lock.
+*Nice-to-have* features:
+- Audio recording
+- OCR
+- [Artificial Intelligence](ai.md) features
