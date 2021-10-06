@@ -7,5 +7,4 @@ The **Ampersand[^1] Project** is a new kind of e-Book, a combination of [hardwar
 
 
 
-[^1]: Ampersand comes from the Latin word *et* (and). The idea is to reinforce the collaborative aspect of the format, as in "Reader & book". 
-https://medium.com/black-lion-banner/the-history-of-the-ampersand-c81839171940
+[^1]: Ampersand comes from the Latin word *et* (and) - see https://bit.ly/3DgFMsV. The idea is to reinforce the collaborative aspect of the format, as in "Reader & book". 
