@@ -39,7 +39,6 @@ is a chip customized for a particular use, for example, a chip designed to run i
 
 
 
----
 [^1]: See http://en.wikipedia.org/wiki/One_Laptop_per_Child Specs in http://laptop.org/en/laptop/hardware/specs.shtml
 
 [^2]: See http://en.wikipedia.org/wiki/Application-specific_integrated_circuit
