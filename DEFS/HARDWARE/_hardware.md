@@ -1,5 +1,5 @@
 # Ampersand Hardware
-To develop later
+*To develop later*
 
 **Base inspiration:**
 - e-ink, Kindle
