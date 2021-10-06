@@ -17,6 +17,7 @@ To develop later
 - Voice recognition
 - Machine vision
 
+---
 ### References
 
 - **One Laptop per Child (OLPC)** [^1]
