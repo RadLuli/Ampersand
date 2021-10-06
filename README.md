@@ -1,8 +1,10 @@
 # Ampersand
-*e-Book format, hardware and application*[^1]
+*Work in progress. Started in Oct'21*
 
 
-**Ampersand** is a new kind of e-Book, intended to be a combination of [hardware](DEFS/HARDWARE/_hardware.md), [digital format](DEFS/oaf.md) and a [reading application](DEFS/app.md), focused on [readers' inputs](DEFS/notes.md) and their [social applications](DEFS/social.md). Annotations are [optimised](DEFS/ai.md), grouped in [radial diagrams](DEFS/mesh.md), and located in an [information landscape](DEFS/landscape.md).
+The **Ampersand[^1] Project** is a new kind of e-Book, a combination of [hardware](DEFS/HARDWARE/_hardware.md), [digital format](DEFS/oaf.md) and a [reading application](DEFS/app.md), focused on [readers' inputs](DEFS/notes.md) and their [social applications](DEFS/social.md). Annotations are [optimised](DEFS/ai.md), grouped in [radial diagrams](DEFS/mesh.md), and located in an [information landscape](DEFS/landscape.md).
+
+
 
 
 [^1]: Ampersand comes from the Latin word *et* (and). The idea is to reinforce the collaborative aspect of the format, as in "Reader & book". 
