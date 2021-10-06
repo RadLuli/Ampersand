@@ -1,8 +1,5 @@
 # Kitchen Sink
 
-a
-Reading Application to be used in generic devices and desktop apps. Must haves: e-book readerAccess to camera / filesRadial diagramming softwareNote-taking Audio recording
-Notes can only become public when their author is logged to the system, even if offline. Only logged users can submit content, comment or act on the network.   Unpublished user-created meshes are considered scrapbooks, and can be made from scratch; from system-generated meshes; or from public meshes.
 Welcome add-ons: OCR Voice- recognition Machine vision
 Reader's inputs (which, in printed books, are recorded in marginalia) can be of any form available (recordings, dictations, selected excerpts, drawings, handwritten text, photos, videos and links)
 Social applications: ﻿most digital readers allow for sharing and commenting book excerpts through social media, but usually in a non-structured way, that may focus on one or more passages, but rarely on the book as a whole. By sharing whole book annotations, Ampersands can turn books into focused social media, comparing  approaches and readings out of the same subject.
@@ -27,6 +24,3 @@ http://en.wikipedia.org/wiki/Library_of_Congress_Classification	http://en.wikipe
 The Dewey Decimal Classification, or Dewey Decimal System, is a proprietary library classification system. OCLC, a non-profit cooperative that serves libraries, currently maintains the system and licenses online access to WebDewey, a continuously updated version for catalogers. It introduced the concepts of relative location and index, which allow new books to be added to a library in their appropriate location based on subject.  The classification's notation makes use of three-digit numbers for main classes, with fractional decimals allowing expansion for further detail. Numbers can be expanded to cover special aspects of general subjects. A library assigns a classification number that unambiguously locates a particular volume in a position relative to other books in the library, on the basis of its subject. It is used in 200,000 libraries in at least 135 countries. Wikipedia has a comparison of Dewey and Library of Congress subject classification systems: http://en.wikipedia.org/wiki/Comparison_of_Dewey_and_Library_of_Congress_subject_classification	http://en.wikipedia.org/wiki/Comparison_of_Dewey_and_Library_of_Congress_subject_classification
 http://en.wikipedia.org/wiki/Wikipedia%3AContents%2FCategories	http://en.wikipedia.org/wiki/Wikipedia%3AContents%2FCategories
 Main Wikipedia Categories are General reference / Culture and the arts /   Geography and places / Health and fitness / History and events / Human activities / Mathematics and logic / Natural and physical sciences / People and self / Philosophy and thinking / Religion and belief systems / Society and social sciences / Technology and applied sciences.
-CONCEPTS
-USAGE
-NOTES, REFs etc	![image](https://user-images.githubusercontent.com/10149128/136107580-3782a5fa-1815-4c33-939d-43ec1a8c4400.png)
