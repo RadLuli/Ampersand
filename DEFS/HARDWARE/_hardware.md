@@ -1,8 +1,7 @@
 # Ampersand Hardware
 To develop later
 
-## inspiration
-
+**Base inspiration:**
 - e-ink, Kindle
 - Mesh network, OLPC
 - Non-glaring screen, Kindle
@@ -12,10 +11,11 @@ To develop later
 - Camera
 - Audio recorder
 - TBD: Stylus?, iPad Pro
-- Welcome add-ons:
-  - OCR
-  - Voice recognition
-  - Machine vision
+
+**Welcome add-ons:**
+- OCR
+- Voice recognition
+- Machine vision
 
 ### References
 
