@@ -15,7 +15,33 @@ Is it possible, through the ISBN or catalog card, to discover the macro area in 
 [^1] Check the structuring of catalog cards, the Dewey index and the formation of the ISBN, as well as the bar code catalog of the Library of Congress of the United States. Wikipedia's set of categories is also an option.
 
 
-## 4 Landscape
+## 4 Information Landscape
+
+
+**information landscape** [^1] - the idea is to present a content block as an address in an urban landscape, which can be visited in different degrees of interaction and depth, depending on the vehicle used.
+
+Understanding (even exposure to) any content is never linear or even at the same level of depth for everyone. A physicist can read a math book quite differently than a philosopher, for example. Therefore, instead of exposing a universe of knowledge in the same way to everyone, the idea is to distribute it in a three-dimensional "landscape", which can be visited in different ways, each with a different level of exposure, depth and interaction possible or demanded:
+
+| Vehicle | Information level | Location | Freedom | Interactivity |
+| ----------- | ----------- | ----------- | ----------- | ----------- | 
+| **Tour bus** | Shallow | Guided | None | Very little |
+| **Public transport (surface)** | Shallow | Fixed | None | little |
+| **Subway** | Focused | Fixed | None | Little |
+| **Car/Taxi** | Average | Free | Little | Little |
+| **Bicycle** | Deep | Free | Medium | Medium |
+| **Walking** | Deep | Free | Hight | High |
+| **Visit to address** | Very deep | Free | Extreme | Very high |
+
+Thus, those who do not know a subject (Jazz, for example) can take a tour bus with a very guided tour and specific stopping points so that they can get a good overview of the subject. On the other hand, an enthusiast or specialist (a musician, in the previous example) would not waste time with generalities and could go straight to the necessary address, extracting information incomprehensible (or invaluable) for a layman.
+
+A classification system, such as that of the US Library of Congress, can serve as a frame of reference.
+
+**TODO:** Tags, questionnaires, taxonomies, folksonomies can help determine (or refine) a location or address in an informational landscape. See categories (and API[^2]) from Amazon, why not?
+
+[^1] The first (and only) time I saw the term used was an article by Fabrice Florin in a book on interactive multimedia learning published by Apple in 1990. There is no shadow of this concept online and, by the way, the concept itself author forgot about him. So I'm going to take ownership of it, even because it was something that has never left my mind since my master's degree. I'll see if he says what I imagine or if it's “just” my interpretation.
+
+[^2] See Amazon Books API
+
 
 ## 5 Mesh 
 *join with 6 Notes?*
@@ -32,75 +58,22 @@ Is it possible, through the ISBN or catalog card, to discover the macro area in 
 
 The mesh design should be more geometric, more angular than a mind map. The idea is to use a hyperbolic diagram.
 
-## 6 Notes
-*join with 5 Mesh?*
-
-**Marginalia** - the annotations in the margins of a book concentrate, for me, the highest point of the author's relationship with his audience, to the point where he cannot contain himself and **needs** to register there, in the body of the book, his opinion and/or additional comment . It's a very rich moment that needs to be shared. Even those who take notes tend to be surprised by their impact when rereading them.
-
-**Contributions** here justify the name *Ampersand*. The author works as a *conversation starter*, which doesn't even need to be central. A reader's work can even surpass the original (as in fanfic or in collaborative books/blogs like “The Martian”, which don't keep all the glory for the author). Among the contributions of readers/collaborators are:
-- User Mesh (public)
-- Text documents (typed or dictated)
-- Media documents (sounds, drawings, photos, videos, thumbnail links)
-
-
-## 7 OAF
-
-## 8 Social
-**Social Applications** - Books are social networks. As they are specific, they work like the forums that gave rise to the internet: only someone who has something relevant to contribute tends to have space. In an environment of concentration of social networks - like the one we live in today - the "fame for fame" is an empty behavior, typical of celebrity culture, which does not tend to generate anything very constructive. As, instead of about ten large networks as they exist today, there are millions of them, generic identities lose value. It doesn't make sense that someone who has nothing to contribute to the universe of a theme like “Harry Potter”, for example, has to seek space in a network whose center is in one of these books. (see \*place of speech)
-
-**Public notes** - Unlike the anarchy of current “social networks”, here the idea of social behavior[^1] is taken seriously. Factual accuracy is not required—they are opinions, after all—but good behavior is by no means optional. Anything that has been recorded in public annotations will be marked in a blockchain and its author identified. Depending on the type of behavior, its author can be given either the “right to be forgotten” or a temporary or permanent ban from the network, including hardware lock.
-
-[^1] (see Erich Fromm)
-
-## 9 Hardware
-
-## 10 Users + Authors
-
-**Readers** - can, of course, be passive, but that is not what is expected of them. They are not expected to be co-authors either, as this week is too long. They are not, however, consumers, full of rights and without any duties. The idea is for them to be **collaborators**, as the term says, collaborating , that is, someone who, like the author, is also dedicated to the topic, although without as much authority, depth, competence or even dedication. That's why your name is right from Ampersand. "*Origin of species&Luli*"
-
-
-## 11 Code of conduct
-
----
-
-
-
-
-
-
-**information landscape** [^1] - the idea is to present a content block as an address in an urban landscape, which can be visited in different degrees of interaction and depth, depending on the vehicle used.
-
-Understanding (even exposure to) any content is never linear or even at the same level of depth for everyone. A physicist can read a math book quite differently than a philosopher, for example. Therefore, instead of exposing a universe of knowledge in the same way to everyone, the idea is to distribute it in a three-dimensional "landscape", which can be visited in different ways, each with a different level of exposure, depth and interaction possible or demanded:
-- *Tour bus* - shallow level of information, guided tour, low interactivity.
-- *Bus or surface public transport* -
-- *Subway* -
-- *Car/taxi* -
-- *Bicycle* -
-- *On foot* -
-- *Visit to an address* -
-
-Thus, those who do not know a subject (Jazz, for example) can take a tour bus with a very guided tour and specific stopping points so that they can get a good overview of the subject. On the other hand, an enthusiast or specialist (a musician, in the previous example) would not waste time with generalities and could go straight to the necessary address, extracting information incomprehensible (or invaluable) for a layman.
-
-A classification system, such as that of the US Library of Congress, can serve as a frame of reference.
-
-**TODO:** Tags, questionnaires, taxonomies, folksonomies can help determine (or refine) a location or address in an informational landscape. See categories (and API[^2]) from Amazon, why not?
-
-[^1] The first (and only) time I saw the term used was an article by Fabrice Florin in a book on interactive multimedia learning published by Apple in 1990. There is no shadow of this concept online and, by the way, the concept itself author forgot about him. So I'm going to take ownership of it, even because it was something that has never left my mind since my master's degree. I'll see if he says what I imagine or if it's “just” my interpretation.
-
-[^2] See Amazon Books API
-
-
 **Registered mesh** - In addition to the automatic mesh, generated from the index/TOC, any user contribution, even if minimal (as long as it is public), can be aggregated to - or accessed from - other meshes.
 
 TODO: I still don't know if it's worth maintaining the independence of each map or if it's not better to assume right away that the reader would have access to all the recorded interpretations of the book since the first visit. To see.
 
 
-**Reference to a Mesh/Book**  - The open nature of annotations naturally allows books and meshes to be referenced in other books and meshes. How to combine all this information avoiding excess, redundancy or recursion? The same goes for both direct references to books and meshes, as well as indirect references to them. One idea might be to use a point structure such as “pagerank” to assign relevance in the information landscape. Something similar to the academic impact factor.
+## 6 Notes
+*join with 5 Mesh?*
 
+**Marginalia** - the annotations in the margins of a book concentrate, for me, the highest point of the author's relationship with his audience, to the point where he cannot contain himself and **needs** to register there, in the body of the book, his opinion and/or additional comment . It's a very rich moment that needs to be shared. Even those who take notes tend to be surprised by their impact when rereading them.
 
-**Author** - tend to be the most sacrificed in interactive content, since their work can never be considered "closed", since they are forced to keep the content constantly updated - or worse, to promptly respond to doubts or requests from readers - which tends to lead them to abandon interactive resources or replace a single author by a team responsible for editorial content. Neither practice is healthy: the first discourages interaction, and the second makes the content lose authenticity.
+*From Wikipedia* - "Catherine C. Marshall, doing research on the future of [user interface](https://en.wikipedia.org/wiki/User_interface "User interface") design, has studied the phenomenon of user annotation of texts. She discovered that in several university departments, students would scour the piles of textbooks at used book dealers for consistently annotated copies. The students had a good appreciation for their predecessors' distillation of knowledge.[[8]](https://en.wikipedia.org/wiki/Marginalia#cite_note-8)[[9]](https://en.wikipedia.org/wiki/Marginalia#cite_note-9)[[10]](https://en.wikipedia.org/wiki/Marginalia#cite_note-10) In recent years, the marginalia left behind by university students as they engage with library textbooks has also been a topic of interest to sociologists looking to understand the experience of being a university student.[[11]](https://en.wikipedia.org/wiki/Marginalia#cite_note-11)[[12]](https://en.wikipedia.org/wiki/Marginalia#cite_note-12)"
 
-In the OAF format, the author does what he has always done and manages to reach a conclusion of his work, which, once published, starts to receive contributions from users. It will be up to them, if they deem it to be appropriate, any update of data or context, as well as its expansion. The author may, at any time, participate in the construction of public maps - identified, like all other users - but their contributions may have a greater weight or a more central location in the mesh. Like in LinkedIn comments, where the post's author is always marked as such.
+**Contributions** here justify the name *Ampersand*. The author works as a *conversation starter*, which doesn't even need to be central. A reader's work can even surpass the original (as in fanfic or in collaborative books/blogs like “The Martian”, which don't keep all the glory for the author). Among the contributions of readers/collaborators are:
+- User Mesh (public)
+- Text documents (typed or dictated)
+- Media documents (sounds, drawings, photos, videos, thumbnail links)
 
 
 **Annotations** can be made on:
@@ -116,16 +89,40 @@ In the OAF format, the author does what he has always done and manages to reach 
 Notes should be in **color** to facilitate memorizing content.
 
 
-At first an **Ampersand Reader** can have two sizes:
-- *Portable*, like this Moleskine; or
-- *Magazine* , bigger than an iPad
-
 All **public annotations**, whether generated automatically or by user contributions, as well as the record of your edits or changes are recorded in a blockchain. The user can access or modify previous public editions, but even if they are deleted, they will remain stored to avoid the distribution of contents contrary to the platform's code of ethics.
 
 Private annotations are, by definition, completely free and editable and can be completely deleted. A private annotation can only be made public by its author from his device(s). Screenshots can be immediately deleted without any prior notice
+
+
+## 7 OAF
+
+## 8 Social
+**Social Applications** - Books are social networks. As they are specific, they work like the forums that gave rise to the internet: only someone who has something relevant to contribute tends to have space. In an environment of concentration of social networks - like the one we live in today - the "fame for fame" is an empty behavior, typical of celebrity culture, which does not tend to generate anything very constructive. As, instead of about ten large networks as they exist today, there are millions of them, generic identities lose value. It doesn't make sense that someone who has nothing to contribute to the universe of a theme like “Harry Potter”, for example, has to seek space in a network whose center is in one of these books. (see \*place of speech)
+
+**Public notes** - Unlike the anarchy of current “social networks”, here the idea of social behavior[^1] is taken seriously. Factual accuracy is not required—they are opinions, after all—but good behavior is by no means optional. Anything that has been recorded in public annotations will be marked in a blockchain and its author identified. Depending on the type of behavior, its author can be given either the “right to be forgotten” or a temporary or permanent ban from the network, including hardware lock.
+
+[^1] (see Erich Fromm)
+
+**Reference to a Mesh/Book**  - The open nature of annotations naturally allows books and meshes to be referenced in other books and meshes. How to combine all this information avoiding excess, redundancy or recursion? The same goes for both direct references to books and meshes, as well as indirect references to them. One idea might be to use a point structure such as “pagerank” to assign relevance in the information landscape. Something similar to the academic impact factor.
+
+
+## 9 Hardware
+
+## 10 Users + Authors
+
+**Readers** - can, of course, be passive, but that is not what is expected of them. They are not expected to be co-authors either, as this week is too long. They are not, however, consumers, full of rights and without any duties. The idea is for them to be **collaborators**, as the term says, collaborating , that is, someone who, like the author, is also dedicated to the topic, although without as much authority, depth, competence or even dedication. That's why your name is right from Ampersand. "*Origin of species&Luli*"
+
+**Author** - tend to be the most sacrificed in interactive content, since their work can never be considered "closed", since they are forced to keep the content constantly updated - or worse, to promptly respond to doubts or requests from readers - which tends to lead them to abandon interactive resources or replace a single author by a team responsible for editorial content. Neither practice is healthy: the first discourages interaction, and the second makes the content lose authenticity.
+
+In the OAF format, the author does what he has always done and manages to reach a conclusion of his work, which, once published, starts to receive contributions from users. It will be up to them, if they deem it to be appropriate, any update of data or context, as well as its expansion. The author may, at any time, participate in the construction of public maps - identified, like all other users - but their contributions may have a greater weight or a more central location in the mesh. Like in LinkedIn comments, where the post's author is always marked as such.
+
+## 11 Code of conduct
 
 **TODO**: code of ethics
 
 **Piracy**
 
 The system does not care about the origin or piracy of books. There is no store.
+---
+
+
