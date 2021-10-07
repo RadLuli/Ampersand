@@ -1,9 +1,7 @@
 # Kitchen Sink
-## 1 AI
-
-## 2 App Users
 
 ## 3 eBook
+
 **Ordinary Book** - This is a text document in a computer-readable format. Scanned formats without comprehension (.djvu, xerox PDF etc) will be readable but will not generate automatic meshes. Remember that these formats are increasingly rare.
 
 **Import** - the important thing in this process is to retrieve the index/TOC of the text and transform it into mesh. With the support of Artificial Intelligence algorithms, it can be integrated into an informational landscape and even identify essential or redundant points of the converted TOC.
@@ -16,7 +14,6 @@ Is it possible, through the ISBN or catalog card, to discover the macro area in 
 
 
 ## 4 Information Landscape
-
 
 **information landscape** [^1] - the idea is to present a content block as an address in an urban landscape, which can be visited in different degrees of interaction and depth, depending on the vehicle used.
 
@@ -42,7 +39,6 @@ A classification system, such as that of the US Library of Congress, can serve a
 
 [^2] See Amazon Books API
 
-
 ## 5 Mesh
 *join with 6 Notes?*
 
@@ -52,8 +48,6 @@ A classification system, such as that of the US Library of Congress, can serve a
 - **Thematic diversity** - any topic can build on any other. The relevance is up to the author
 - **Formal diversity** - colors, shapes, sounds, photos, videos, links, texts and dictations are some possible formats to use
 
-
-
 **Mesh** - radial diagram, similar to a mind map, but with more features, multidimensional, integrated and with an artificial intelligence system to interpret notes and similar content, as well as to prioritize more popular connections between similar meshes that are public.
 
 The mesh design should be more geometric, more angular than a mind map. The idea is to use a hyperbolic diagram.
@@ -61,7 +55,6 @@ The mesh design should be more geometric, more angular than a mind map. The idea
 **Registered mesh** - In addition to the automatic mesh, generated from the index/TOC, any user contribution, even if minimal (as long as it is public), can be aggregated to - or accessed from - other meshes.
 
 TODO: I still don't know if it's worth maintaining the independence of each map or if it's not better to assume right away that the reader would have access to all the recorded interpretations of the book since the first visit. To see.
-
 
 ## 6 Notes
 *join with 5 Mesh?*
@@ -74,7 +67,6 @@ TODO: I still don't know if it's worth maintaining the independence of each map 
 - User Mesh (public)
 - Text documents (typed or dictated)
 - Media documents (sounds, drawings, photos, videos, thumbnail links)
-
 
 **Annotations** can be made on:
 - Typed text
@@ -92,9 +84,6 @@ All **public annotations**, whether generated automatically or by user contribut
 
 Private annotations are, by definition, completely free and editable and can be completely deleted. A private annotation can only be made public by its author from his device(s). Screenshots can be immediately deleted without any prior notice
 
-
-## 7 OAF
-
 ## 8 Social
 **Social Applications** - Books are social networks. As they are specific, they work like the forums that gave rise to the internet: only someone who has something relevant to contribute tends to have space. In an environment of concentration of social networks - like the one we live in today - the "fame for fame" is an empty behavior, typical of celebrity culture, which does not tend to generate anything very constructive. As, instead of about ten large networks as they exist today, there are millions of them, generic identities lose value. It doesn't make sense that someone who has nothing to contribute to the universe of a theme like “Harry Potter”, for example, has to seek space in a network whose center is in one of these books. (see \*place of speech)
 
@@ -103,9 +92,6 @@ Private annotations are, by definition, completely free and editable and can be 
 [^1] (see Erich Fromm)
 
 **Reference to a Mesh/Book**  - The open nature of annotations naturally allows books and meshes to be referenced in other books and meshes. How to combine all this information avoiding excess, redundancy or recursion? The same goes for both direct references to books and meshes, as well as indirect references to them. One idea might be to use a point structure such as “pagerank” to assign relevance in the information landscape. Something similar to the academic impact factor.
-
-
-## 9 Hardware
 
 ## 10 Users + Authors
 
@@ -116,7 +102,6 @@ Private annotations are, by definition, completely free and editable and can be 
 In the OAF format, the author does what he has always done and manages to reach a conclusion of his work, which, once published, starts to receive contributions from users. It will be up to them, if they deem it to be appropriate, any update of data or context, as well as its expansion. The author may, at any time, participate in the construction of public maps - identified, like all other users - but their contributions may have a greater weight or a more central location in the mesh. Like in LinkedIn comments, where the post's author is always marked as such.
 
 ## 11 Code of conduct
-
 **TODO**: code of ethics
 
 **Piracy**
