@@ -20,7 +20,7 @@
 
 
 
-**Social Applications** - Books are social networks. As they are specific, they work like the forums that gave rise to the internet: only someone who has something relevant to contribute tends to have space. In an environment of concentration of social networks - like the one we live in today - the "fame for fame" is an empty behavior, typical of celebrity culture, which does not tend to generate anything very constructive. As, instead of about ten large networks as they exist today, there are millions of them, generic identities lose value. It doesn't make sense that someone who has nothing to contribute to the universe of a theme like “Harry Potter”, for example, has to seek space in a network whose center is in one of these books. (see *place of speech)
+**Social Applications** - Books are social networks. As they are specific, they work like the forums that gave rise to the internet: only someone who has something relevant to contribute tends to have space. In an environment of concentration of social networks - like the one we live in today - the "fame for fame" is an empty behavior, typical of celebrity culture, which does not tend to generate anything very constructive. As, instead of about ten large networks as they exist today, there are millions of them, generic identities lose value. It doesn't make sense that someone who has nothing to contribute to the universe of a theme like “Harry Potter”, for example, has to seek space in a network whose center is in one of these books. (see \*place of speech)
 
 
 
@@ -76,21 +76,17 @@ A classification system, such as that of the US Library of Congress, can serve a
 [^2] See Amazon Books API
 
 
-
 **Registered mesh** - In addition to the automatic mesh, generated from the index/TOC, any user contribution, even if minimal (as long as it is public), can be aggregated to - or accessed from - other meshes.
 
 TODO: I still don't know if it's worth maintaining the independence of each map or if it's not better to assume right away that the reader would have access to all the recorded interpretations of the book since the first visit. To see.
 
 
-
 **Reference to a Mesh/Book**  - The open nature of annotations naturally allows books and meshes to be referenced in other books and meshes. How to combine all this information avoiding excess, redundancy or recursion? The same goes for both direct references to books and meshes, as well as indirect references to them. One idea might be to use a point structure such as “pagerank” to assign relevance in the information landscape. Something similar to the academic impact factor.
-
 
 
 **Author** - tend to be the most sacrificed in interactive content, since their work can never be considered "closed", since they are forced to keep the content constantly updated - or worse, to promptly respond to doubts or requests from readers - which tends to lead them to abandon interactive resources or replace a single author by a team responsible for editorial content. Neither practice is healthy: the first discourages interaction, and the second makes the content lose authenticity.
 
 In the OAF format, the author does what he has always done and manages to reach a conclusion of his work, which, once published, starts to receive contributions from users. It will be up to them, if they deem it to be appropriate, any update of data or context, as well as its expansion. The author may, at any time, participate in the construction of public maps - identified, like all other users - but their contributions may have a greater weight or a more central location in the mesh. Like in LinkedIn comments, where the post's author is always marked as such.
-
 
 
 **Annotations** can be made on:
@@ -106,16 +102,15 @@ In the OAF format, the author does what he has always done and manages to reach 
 Notes should be in **color** to facilitate memorizing content.
 
 
-
 At first an **Ampersand Reader** can have two sizes:
 - *Portable*, like this Moleskine; or
 - *Magazine* , bigger than an iPad
 
-All public annotations , whether generated automatically or by user contributions, as well as the record of your edits or changes are recorded in a blockchain. The user can access or modify previous public editions, but even if they are deleted, they will remain stored to avoid the distribution of contents contrary to the platform's code of ethics.
+All **public annotations**, whether generated automatically or by user contributions, as well as the record of your edits or changes are recorded in a blockchain. The user can access or modify previous public editions, but even if they are deleted, they will remain stored to avoid the distribution of contents contrary to the platform's code of ethics.
 
 Private annotations are, by definition, completely free and editable and can be completely deleted. A private annotation can only be made public by its author from his device(s). Screenshots can be immediately deleted without any prior notice
 
-TODO: code of ethics
+**TODO**: code of ethics
 
 **Piracy**
 
