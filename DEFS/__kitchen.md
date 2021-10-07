@@ -105,6 +105,5 @@ In the OAF format, the author does what he has always done and manages to reach 
 **TODO**: code of ethics
 
 **Piracy**
-
 The system does not care about the origin or piracy of books. There is no store.
 ---
