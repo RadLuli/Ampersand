@@ -1,4 +1,27 @@
 # Kitchen Sink
+## 1 AI
+
+## 2 App Users
+
+## 3 eBook
+
+## 4 Landscape (change name to *info landscape*)
+
+## 5 Mesh (*join with 6 Notes?*)
+
+## 6 Notes
+
+## 7 OAF
+
+## 8 Social
+
+## 9 Hardware
+
+## 10 Users + Authors
+
+## 11 Code of conduct
+
+---
 
 
 **Contributions** here justify the name *Ampersand*. The author works as a *conversation starter*, which doesn't even need to be central. A reader's work can even surpass the original (as in fanfic or in collaborative books/blogs like “The Martian”, which don't keep all the glory for the author). Among the contributions of readers/collaborators are:

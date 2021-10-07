@@ -2,12 +2,15 @@
 *To develop later*
 
 
-**Electronic book: hardware**. The project can even work only in software, but I believe that specific hardware can bring advantages, such as:
-- **Size** - A5 minimum, with protective cover and place to store the stylus, something like this Moleskine notebook
-- **Stylus** - rubberized, with pen weight and size. It can work as a light pen and slides with resistance on the screen - like paper, not glass
-- **Screen** - porous, like a matte film, to increase strength
-- **Network** - the idea is that the device works as a mesh network antenna, in the OLPC style
-- **Processing** - use elixir to spread processing across all connected devices even if they are not active
+The **Ampersand hardware** is a *hardware concept/prototype*, in which the Ampersand application would run in optimal conditions. Some ideas for it ares:
+- **Size** - three possible sizes - 
+	- *Pocket* - something like a Moleskine Reporter pocket book, with a protective cover and place to store the stylus; 
+	- *Book* - hardcover book size, with enhancements; and
+	-  *Magazine* - A4/Letter size, waterproof.
+- **Stylus** - should be optimized for haptic experience. Its surface can be plastic, metallic or rubberized, but always with with the weight and diameter of a quality pen. Its tip should face a little resistance while contacting the screen, in order to feel like writing on coarse paper (like *Canson*), not on glass.
+- **Screen** - couls have a matte film, that would both prevent scratches and help with the paper sensation.
+- **Network** - the device should work as a mesh network antenna, to help community / IoT / Smart City connections.
+- **Distributed Processing** - functional languages, like *Elixir* could beused to spread processing across all connected devices, even ones which are not active.
 - **Camera and Audio Recorder**
 
 **Base inspiration:**
