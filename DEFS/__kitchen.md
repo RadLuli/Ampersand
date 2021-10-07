@@ -23,7 +23,7 @@ Is it possible, through the ISBN or catalog card, to discover the macro area in 
 Understanding (even exposure to) any content is never linear or even at the same level of depth for everyone. A physicist can read a math book quite differently than a philosopher, for example. Therefore, instead of exposing a universe of knowledge in the same way to everyone, the idea is to distribute it in a three-dimensional "landscape", which can be visited in different ways, each with a different level of exposure, depth and interaction possible or demanded:
 
 | Vehicle | Information level | Location | Freedom | Interactivity |
-| ----------- | ----------- | ----------- | ----------- | ----------- | 
+| ----------- | ----------- | ----------- | ----------- | ----------- |
 | **Tour bus** | Shallow | Guided | None | Very little |
 | **Public transport (surface)** | Shallow | Fixed | None | little |
 | **Subway** | Focused | Fixed | None | Little |
@@ -43,7 +43,7 @@ A classification system, such as that of the US Library of Congress, can serve a
 [^2] See Amazon Books API
 
 
-## 5 Mesh 
+## 5 Mesh
 *join with 6 Notes?*
 
 **Mind Maps** - the term belongs to Tony Buzan, let's use “mesh”. It is necessary to understand its importance and its effects to justify the use of this type of diagram as a form of retention and popularization of information. Radial diagrams, after all, have been around for a long time. What interests me in mind maps:
@@ -86,8 +86,7 @@ TODO: I still don't know if it's worth maintaining the independence of each map 
 - Drawings
 - Links
 
-Notes should be in **color** to facilitate memorizing content.
-
+Notes should be in **<span style="color:#18ffff">color</span>** to facilitate memorizing content.
 
 All **public annotations**, whether generated automatically or by user contributions, as well as the record of your edits or changes are recorded in a blockchain. The user can access or modify previous public editions, but even if they are deleted, they will remain stored to avoid the distribution of contents contrary to the platform's code of ethics.
 
@@ -124,5 +123,3 @@ In the OAF format, the author does what he has always done and manages to reach 
 
 The system does not care about the origin or piracy of books. There is no store.
 ---
-
-
