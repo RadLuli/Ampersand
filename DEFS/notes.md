@@ -1,5 +1,5 @@
-# Notes
-Reader annotations
+# Reader annotations
+*Usage*
 
 ## Scrapbooks
 Are collections of unrelated user notes, in any form available. When they are organised in a tree structure, they become meshes.
