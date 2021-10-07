@@ -4,48 +4,21 @@
 ## 2 App Users
 
 ## 3 eBook
-
-## 4 Landscape (change name to *info landscape*)
-
-## 5 Mesh (*join with 6 Notes?*)
-
-## 6 Notes
-
-## 7 OAF
-
-## 8 Social
-
-## 9 Hardware
-
-## 10 Users + Authors
-
-## 11 Code of conduct
-
----
-
-
-**Contributions** here justify the name *Ampersand*. The author works as a *conversation starter*, which doesn't even need to be central. A reader's work can even surpass the original (as in fanfic or in collaborative books/blogs like “The Martian”, which don't keep all the glory for the author). Among the contributions of readers/collaborators are:
-- User Mesh (public)
-- Text documents (typed or dictated)
-- Media documents (sounds, drawings, photos, videos, thumbnail links)
-
-
-
-**Readers** - can, of course, be passive, but that is not what is expected of them. They are not expected to be co-authors either, as this week is too long. They are not, however, consumers, full of rights and without any duties. The idea is for them to be **collaborators**, as the term says, collaborating , that is, someone who, like the author, is also dedicated to the topic, although without as much authority, depth, competence or even dedication. That's why your name is right from Ampersand. "*Origin of species&Luli*"
-
-
-
-**Marginalia** - the annotations in the margins of a book concentrate, for me, the highest point of the author's relationship with his audience, to the point where he cannot contain himself and **needs** to register there, in the body of the book, his opinion and/or additional comment . It's a very rich moment that needs to be shared. Even those who take notes tend to be surprised by their impact when rereading them.
-
-
-
 **Ordinary Book** - This is a text document in a computer-readable format. Scanned formats without comprehension (.djvu, xerox PDF etc) will be readable but will not generate automatic meshes. Remember that these formats are increasingly rare.
 
+**Import** - the important thing in this process is to retrieve the index/TOC of the text and transform it into mesh. With the support of Artificial Intelligence algorithms, it can be integrated into an informational landscape and even identify essential or redundant points of the converted TOC.
+
+**Index/TOC** - it is necessary to analyze the EPUB3 format to understand how the index/Table of contents is marked, as it is from this content that the first map will be generated.
+
+Is it possible, through the ISBN or catalog card, to discover the macro area in which a given book is located to locate it in an informative landscape?[^1]
+
+[^1] Check the structuring of catalog cards, the Dewey index and the formation of the ISBN, as well as the bar code catalog of the Library of Congress of the United States. Wikipedia's set of categories is also an option.
 
 
-**Social Applications** - Books are social networks. As they are specific, they work like the forums that gave rise to the internet: only someone who has something relevant to contribute tends to have space. In an environment of concentration of social networks - like the one we live in today - the "fame for fame" is an empty behavior, typical of celebrity culture, which does not tend to generate anything very constructive. As, instead of about ten large networks as they exist today, there are millions of them, generic identities lose value. It doesn't make sense that someone who has nothing to contribute to the universe of a theme like “Harry Potter”, for example, has to seek space in a network whose center is in one of these books. (see \*place of speech)
+## 4 Landscape
 
-
+## 5 Mesh 
+*join with 6 Notes?*
 
 **Mind Maps** - the term belongs to Tony Buzan, let's use “mesh”. It is necessary to understand its importance and its effects to justify the use of this type of diagram as a form of retention and popularization of information. Radial diagrams, after all, have been around for a long time. What interests me in mind maps:
 - **Adimensionality** - a segment can be tiny or huge, and vary immensely
@@ -59,23 +32,41 @@
 
 The mesh design should be more geometric, more angular than a mind map. The idea is to use a hyperbolic diagram.
 
+## 6 Notes
+*join with 5 Mesh?*
+
+**Marginalia** - the annotations in the margins of a book concentrate, for me, the highest point of the author's relationship with his audience, to the point where he cannot contain himself and **needs** to register there, in the body of the book, his opinion and/or additional comment . It's a very rich moment that needs to be shared. Even those who take notes tend to be surprised by their impact when rereading them.
+
+**Contributions** here justify the name *Ampersand*. The author works as a *conversation starter*, which doesn't even need to be central. A reader's work can even surpass the original (as in fanfic or in collaborative books/blogs like “The Martian”, which don't keep all the glory for the author). Among the contributions of readers/collaborators are:
+- User Mesh (public)
+- Text documents (typed or dictated)
+- Media documents (sounds, drawings, photos, videos, thumbnail links)
 
 
-**Public notes** - Unlike the anarchy of current “social networks”, here the idea of ​​social behavior[^1] is taken seriously. Factual accuracy is not required—they are opinions, after all—but good behavior is by no means optional. Anything that has been recorded in public annotations will be marked in a blockchain and its author identified. Depending on the type of behavior, its author can be given either the “right to be forgotten” or a temporary or permanent ban from the network, including hardware lock.
+## 7 OAF
+
+## 8 Social
+**Social Applications** - Books are social networks. As they are specific, they work like the forums that gave rise to the internet: only someone who has something relevant to contribute tends to have space. In an environment of concentration of social networks - like the one we live in today - the "fame for fame" is an empty behavior, typical of celebrity culture, which does not tend to generate anything very constructive. As, instead of about ten large networks as they exist today, there are millions of them, generic identities lose value. It doesn't make sense that someone who has nothing to contribute to the universe of a theme like “Harry Potter”, for example, has to seek space in a network whose center is in one of these books. (see \*place of speech)
+
+**Public notes** - Unlike the anarchy of current “social networks”, here the idea of social behavior[^1] is taken seriously. Factual accuracy is not required—they are opinions, after all—but good behavior is by no means optional. Anything that has been recorded in public annotations will be marked in a blockchain and its author identified. Depending on the type of behavior, its author can be given either the “right to be forgotten” or a temporary or permanent ban from the network, including hardware lock.
 
 [^1] (see Erich Fromm)
 
+## 9 Hardware
+
+## 10 Users + Authors
+
+**Readers** - can, of course, be passive, but that is not what is expected of them. They are not expected to be co-authors either, as this week is too long. They are not, however, consumers, full of rights and without any duties. The idea is for them to be **collaborators**, as the term says, collaborating , that is, someone who, like the author, is also dedicated to the topic, although without as much authority, depth, competence or even dedication. That's why your name is right from Ampersand. "*Origin of species&Luli*"
 
 
-**Import** - the important thing in this process is to retrieve the index/TOC of the text and transform it into mesh. With the support of Artificial Intelligence algorithms, it can be integrated into an informational landscape and even identify essential or redundant points of the converted TOC.
+## 11 Code of conduct
+
+---
 
 
 
-**Index/TOC** - it is necessary to analyze the EPUB3 format to understand how the index/Table of contents is marked, as it is from this content that the first map will be generated.
 
-Is it possible, through the ISBN or catalog card, to discover the macro area in which a given book is located to locate it in an informative landscape?[^1]
 
-[^1] Check the structuring of catalog cards, the Dewey index and the formation of the ISBN, as well as the bar code catalog of the Library of Congress of the United States. Wikipedia's set of categories is also an option.
 
 **information landscape** [^1] - the idea is to present a content block as an address in an urban landscape, which can be visited in different degrees of interaction and depth, depending on the vehicle used.
 
