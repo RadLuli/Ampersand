@@ -22,15 +22,8 @@ When an e-book or electronic text document is imported into the Open Annotation 
   - Drawings, graphic contents
   - Links
 - Information landscapes
-<<<<<<< Updated upstream
-
-○   From the book in context (catalog sheet)
-
-○   From the content in the book.
-=======
   - Of the book related to its context (library catalog)
   - Of the content related to the book.
->>>>>>> Stashed changes
 
 
 Radial diagrams containing-readable text documents

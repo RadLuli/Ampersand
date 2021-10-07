@@ -1,6 +1,15 @@
 # Ampersand Hardware
 *To develop later*
 
+
+**Electronic book: hardware**. The project can even work only in software, but I believe that specific hardware can bring advantages, such as:
+- **Size** - A5 minimum, with protective cover and place to store the stylus, something like this Moleskine notebook
+- **Stylus** - rubberized, with pen weight and size. It can work as a light pen and slides with resistance on the screen - like paper, not glass
+- **Screen** - porous, like a matte film, to increase strength
+- **Network** - the idea is that the device works as a mesh network antenna, in the OLPC style
+- **Processing** - use elixir to spread processing across all connected devices even if they are not active
+- **Camera and Audio Recorder**
+
 **Base inspiration:**
 - e-ink, Kindle
 - Mesh network, OLPC
