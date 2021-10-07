@@ -3,8 +3,7 @@
 
 
 The **Ampersand[^1] Project** is developing a new kind of e-Book, with a [digital format](DEFS/oaf.md), a [reading application](DEFS/app.md), and even a 
-[hardware prototype](DEFS/HARDWARE/_hardware.md),  focused on [readers' inputs](DEFS/notes.md) and their [social applications](DEFS/social.md). Annotations are
-[optimised](DEFS/ai.md), grouped in [radial diagrams](DEFS/mesh.md), and located in an [information landscape](DEFS/landscape.md).
+[hardware prototype](DEFS/HARDWARE/_hardware.md),  focused on [readers' inputs](DEFS/notes.md) and their [social applications](DEFS/social.md). Annotations are [optimised](DEFS/ai.md), grouped in [radial diagrams](DEFS/mesh.md), and located in an [information landscape](DEFS/landscape.md).
 
 
 
