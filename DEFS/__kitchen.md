@@ -107,18 +107,16 @@ Notes should be in **color** to facilitate memorizing content.
 
 
 
-At first an Ampersand can have two sizes:
-
-●   Portable , like this Moleskine; or
-
-●   Magazine , bigger than an iPad
+At first an **Ampersand Reader** can have two sizes:
+- *Portable*, like this Moleskine; or
+- *Magazine* , bigger than an iPad
 
 All public annotations , whether generated automatically or by user contributions, as well as the record of your edits or changes are recorded in a blockchain. The user can access or modify previous public editions, but even if they are deleted, they will remain stored to avoid the distribution of contents contrary to the platform's code of ethics.
 
 Private annotations are, by definition, completely free and editable and can be completely deleted. A private annotation can only be made public by its author from his device(s). Screenshots can be immediately deleted without any prior notice
 
-code of ethics
+TODO: code of ethics
 
-Piracy
+**Piracy**
 
 The system does not care about the origin or piracy of books. There is no store.
