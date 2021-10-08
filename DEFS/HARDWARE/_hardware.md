@@ -2,7 +2,8 @@
 *To develop later*
 
 
-The **Ampersand hardware** is a *hardware concept/prototype*, in which the Ampersand application would run in optimal conditions. Some ideas for it ares:
+The **Ampersand hardware** is a *hardware concept/prototype*, in which the Ampersand application would run in optimal conditions. Some ideas for it are:
+
 - **Size** - three possible sizes - 
 	- *Pocket* - something like a Moleskine Reporter pocket book, with a protective cover and place to store the stylus; 
 	- *Book* - hardcover book size, with enhancements; and
@@ -14,6 +15,7 @@ The **Ampersand hardware** is a *hardware concept/prototype*, in which the Amper
 - **Camera and Audio Recorder**
 
 **Base inspiration:**
+
 - e-ink, Kindle
 - Mesh network, OLPC
 - Non-glaring screen, Kindle
@@ -25,6 +27,7 @@ The **Ampersand hardware** is a *hardware concept/prototype*, in which the Amper
 - TBD: Stylus?, iPad Pro
 
 **Welcome add-ons:**
+
 - OCR
 - Voice recognition
 - Machine vision

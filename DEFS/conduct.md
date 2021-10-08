@@ -1,5 +1,4 @@
-# 11 Code of conduct
-**TODO**: code of ethics
+# Code of conduct
 
 From Wikipedia: A code of conduct is a set of rules outlining the norms, rules, and responsibilities or proper practices of an individual party or an organization.
 
@@ -17,39 +16,20 @@ A code of conduct can be an important part in establishing an inclusive culture,
 Accountants' code of conduct
 In its 2007 International Good Practice Guidance, "Defining and Developing an Effective Code of Conduct for Organizations", provided the following working definition: "Principles, values, standards, or rules of behavior that guide the decisions, procedures, and systems of an organization in a way that (a) contributes to the welfare of its key stakeholders, and (b) respects the rights of all constituents affected by its operations."
 
-Examples
-Banking Code[9]
-Bushido
-Chivalric code
-Coca-Cola Code of Conduct[10]
-Code of Conduct for the International Red Cross and Red Crescent Movement and NGOs in Disaster Relief
-Code of conduct social science research UNESCO[11]
-Code of Hammurabi
-Code of the United States Fighting Force
-Declaration of Geneva
-Declaration of Helsinki
-Don't be evil
-Eight Precepts
-Election Commission of India's Model Code of Conduct
-Ethic of reciprocity (Golden Rule)
-Five Pillars of Islam
-Geneva convention
-Hippocratic Oath
-ICC Cricket Code of Conduct
-International Code of Conduct against Ballistic Missile Proliferation (ICOC or Hague Code of Conduct)
-Israel Defense Forces – Code of Conduct
-Journalist's Creed
-Moral Code of the Builder of Communism
-Patimokkha
-Pirate code of the Brethren
-Psychiatrists' Ethics – Madrid Declaration on Ethical Standards for Psychiatric Practice[12]
-Psychologists' Code of Conduct[13][14]
-Recurse Center "Social Rules"
-Rule of St. Benedict
-Solicitors Regulation Authority (SRA) Code of Conduct 2011[15] (for solicitors in the UK)[15]
-Ten Commandments
-Ten Indian commandments
-Ten Precepts (Taoism)
-Uniform Code of Military Justice
-Vienna Convention on Diplomatic Relations
-Warrior code
+Examples:
+
+- Banking Code[9]
+- Coca-Cola Code of Conduct[10]
+- Code of conduct social science research UNESCO[11]
+- Declaration of Geneva
+- Declaration of Helsinki
+- Don't be evil
+- Eight Precepts
+- Ethic of reciprocity (Golden Rule)
+- Geneva convention
+- Journalist's Creed
+- Patimokkha
+- Pirate code of the Brethren
+- Recurse Center "Social Rules"
+- Ten Precepts (Taoism)
+- Vienna Convention on Diplomatic Relations
