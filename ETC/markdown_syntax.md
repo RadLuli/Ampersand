@@ -38,6 +38,7 @@
 
 [Markdown Guide](https://www.markdownguide.org)
 
+
 ### Image
 
 ![Ampersand Firenze](Ampersand.png)
@@ -87,3 +88,4 @@ term
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
+

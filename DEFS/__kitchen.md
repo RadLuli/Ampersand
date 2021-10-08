@@ -4,24 +4,17 @@
 
 **Books** - text documents in computer-readable formats. Scanned formats (.djvu, photocopy PDFs etc) can be digitized but will not generate automatic meshes. These formats are, gladly, increasingly uncommon.
 
-**Import** - retrieve the index/TOC of the text and transform it into a mesh[^1]. With the support of Artificial Intelligence algorithms, both essential and redundant parts of the TOC
+**Import** - retrieve the index/TOC of the text and transform it into a mesh[^1]. With the support of Artificial Intelligence algorithms, both essential and redundant parts of the TOC are *optimized*, identifying both essential and redundant parts of the converted index, with suggestions on its form and location, before integrating it to the information landscape.
 
+[^1]: **TODO:** - see Obsidian Knowledge management, also study the EPUB3 format to understand how the index/TOC is marked. Also check the structure of library cards, the Dewey index and the formation of the ISBN, as well as the Library of \[US\] Congress. Wikipedia's set of categories is also an option. Is it possible, through the ISBN or catalog card, to discover the macro area in which a given book is located to locate it in an information landscape?
 
-it can be integrated into an informational landscape and even identify essential or redundant points of the converted TOC.
-[^1]: see Obsidian Knowledge management
-
-**Index/TOC** - it is necessary to analyze the EPUB3 format to understand how the index/Table of contents is marked, as it is from this content that the first map will be generated.
-
-Is it possible, through the ISBN or catalog card, to discover the macro area in which a given book is located to locate it in an information landscape?[^1]
-
-[^1] Check the structuring of catalog cards, the Dewey index and the formation of the ISBN, as well as the bar code catalog of the Library of Congress of the United States. Wikipedia's set of categories is also an option.
 
 
 ## 4 Information Landscape
 
 **information landscape** [^1] - the idea is to present a content block as an address in an urban landscape, which can be visited in different degrees of interaction and depth, depending on the vehicle used.
 
-Understanding (even exposure to) any content is never linear or even at the same level of depth for everyone. A physicist can read a math book quite differently than a philosopher, for example. Therefore, instead of exposing a universe of knowledge in the same way to everyone, the idea is to distribute it in a three-dimensional "landscape", which can be visited in different ways, each with a different level of exposure, depth and interaction possible or demanded:
+I believe that the understanding (and even the exposure to) any content is never linear, nor it happens at the same depth level for different readers - a physicist and a philosopher can read a math book in quite different ways. Instead of exposing a universe of knowledge in the same way to everyone, the idea is to distribute the knowledge in a three-dimensional "landscape", which can be visited in different ways, each with a different level of exposure, depth and interaction possible or demanded. Some possible interaction ways are:
 
 | Vehicle | Information level | Location | Freedom | Interactivity |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -33,7 +26,7 @@ Understanding (even exposure to) any content is never linear or even at the same
 | **Walking** | Deep | Free | Hight | High |
 | **Visit to address** | Very deep | Free | Extreme | Very high |
 
-Thus, those who do not know a subject (Jazz, for example) can take a tour bus with a very guided tour and specific stopping points so that they can get a good overview of the subject. On the other hand, an enthusiast or specialist (a musician, in the previous example) would not waste time with generalities and could go straight to the necessary address, extracting information incomprehensible (or invaluable) for a layman.
+This way, those who do not know a subject (Jazz, for example) can take a tour bus with a very guided tour and specific stopping points so that they can get a good overview of the subject. On the other hand, an enthusiast or specialist (a musician, in the previous example) would not waste time with generalities and could go straight to the necessary address, extracting information incomprehensible (or invaluable) for a layman.
 
 A classification system, such as that of the US Library of Congress, can serve as a frame of reference.
 
@@ -114,6 +107,7 @@ If, instead of a few large social networks, there are millions of very specific 
 
 **Reference to a Mesh/Book**  - The open nature of annotations naturally allows books and meshes to be referenced in other books and meshes. How to combine all this information avoiding excess, redundancy or recursion? The same goes for both direct references to books and meshes, as well as indirect references to them. One idea might be to use a point structure such as “pagerank” to assign relevance in the information landscape. Something similar to the academic impact factor.
 
+<a name="10">10</a>
 ## 10 Users + Authors
 
 **Users** can, of course, be passive readers, just like what happens in all other e-reading platforms, but this is not what is expected in a true *Ampersand* experience. Reader users are, of course, not expected to be *co-authors*, for this is too big a demand for any reader.
@@ -126,6 +120,7 @@ This is why their name stays at the right side of the Ampersand, like in "*The O
 
 In the OAF format, the author does what he has always done and manages to reach a conclusion of his work, which, once published, starts to receive contributions from users. It will be up to them, if they deem it to be appropriate, any update of data or context, as well as its expansion. The author may, at any time, participate in the construction of public maps - identified, like all other users - but their contributions may have a greater weight or a more central location in the mesh. Like in LinkedIn comments, where the post's author is always marked as such.
 
+<a name="11">11</a>
 ## 11 Code of conduct
 **TODO**: code of ethics
 

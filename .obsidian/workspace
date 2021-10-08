@@ -4,52 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a629f52cd5440aa3",
+        "id": "325e6534c37fd686",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "preview"
-          }
-        },
-        "group": "59df7dafe728aaee"
-      },
-      {
-        "id": "372812794f9ccef8",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "README.md",
-            "options": {
-              "collapse-filter": false,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": true,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": false,
-              "centerStrength": 0.497058823529412,
-              "repelStrength": 9.99080882352941,
-              "linkStrength": 0.504411764705882,
-              "linkDistance": 260,
-              "scale": 1.764118533787013,
-              "close": true
-            }
-          }
-        },
-        "group": "59df7dafe728aaee"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -105,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,15 +82,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "372812794f9ccef8",
+  "active": "325e6534c37fd686",
   "lastOpenFiles": [
+    "ETC/markdown_syntax.md",
+    "DEFS/__kitchen.md",
     "README.md",
     "DEFS/landscape.md",
     "DEFS/ebook.md",
     "DEFS/app.md",
     "DEFS/ai.md",
     "DEFS/oaf.md",
-    "About Me.md",
-    "ETC/markdown_syntax.md"
+    "About Me.md"
   ]
 }
