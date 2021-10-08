@@ -42,17 +42,19 @@ A classification system, such as that of the US Library of Congress, can serve a
 ## 5 Mesh
 *join with 6 Notes?*
 
-**Mind Maps[^1]** - Radial diagrams have been around for a long time. Their major advantages towards linear texts are:
-- **Adimensionality** - a segment can be tiny or huge, and vary immensely
-- **Non-linearity** - like ideas that form, a topic can start from any point
+**Meshes[^1]** are radial diagrams, similar to mind maps, but with more features, multidimensional, and integrated and with an artificial intelligence system to interpret notes and similar content, as well as to prioritize more popular connections between similar meshes that are public.
+The mesh design should be more geometric, more angular than a mind map.
+
+Radial diagrams have been around for a long time. Their major advantages towards linear texts are:
+- **Multi-dimensionality** - branches and topics can be of any size, and vary immensely;
+- **Non-linearity** - like ideas in minds, a topic can start from any point;
 - **Thematic diversity** - any topic can build on any other. The relevance is up to the author
 - **Formal diversity** - colors, shapes, sounds, photos, videos, links, texts and dictations are some possible formats to use
 
-[^1]: the "Mind Map" term was popularized by Tony Buzan, and it is only a part of what a *mesh* really is. **TODO:** understand a little more about mind maps, their importance and effects as forms of learning and communication. 
+[^1]: the "Mind Map" term was popularized by Tony Buzan, and it is only a part of what a *mesh* really is.
 
-**Mesh** - radial diagram, similar to a mind map, but with more features, multidimensional, integrated and with an artificial intelligence system to interpret notes and similar content, as well as to prioritize more popular connections between similar meshes that are public.
+**TODO:** understand a little more about mind maps, their importance and effects as forms of learning and communication.
 
-The mesh design should be more geometric, more angular than a mind map. The idea is to use a hyperbolic diagram.
 
 **Registered mesh** - In addition to the automatic mesh, generated from the index/TOC, any user contribution, even if minimal (as long as it is public), can be aggregated to - or accessed from - other meshes.
 
@@ -63,7 +65,7 @@ TODO: I still don't know if it's worth maintaining the independence of each map 
 
 **Marginalia** - reader annotations in book margins[^1] are (for me, at least) the pinnacle point of a book relationship with its audience, intense up to the point where  readers cannot contain themselves and **need** to mark right there, in the book body, their opinion and/or additional comments. It is a very rich moment that needs to be shared, for even the note-takers tend to be surprised by their impact when rereading their notes. Sadly, these notes are usually wasted.
 
-[^1]: See JACKSON, H. J. **Marginalia: Readers Writing in Books**. Yale University Press, 2001. 
+[^1]: See JACKSON, H. J. **Marginalia: Readers Writing in Books**. Yale University Press, 2001.
 
 *From Wikipedia* - "Catherine C. Marshall, doing research on the future of [user interface](https://en.wikipedia.org/wiki/User_interface "User interface") design, has studied the phenomenon of user annotation of texts. She discovered that in several university departments, students would scour the piles of textbooks at used book dealers for consistently annotated copies. The students had a good appreciation for their predecessors' distillation of knowledge. In recent years, the marginalia left behind by university students as they engage with library textbooks has also been a topic of interest to sociologists looking to understand the experience of being a university student. See [*Marginalia*](https://en.wikipedia.org/wiki/Marginalia), notes [8](https://en.wikipedia.org/wiki/Marginalia#cite_note-8), [9](https://en.swikipedia.org/wiki/Marginalia#cite_note-9), [10](https://en.wikipedia.org/wiki/Marginalia#cite_note-10), [11](https://en.wikipedia.org/wiki/Marginalia#cite_note-11) and [12](https://en.wikipedia.org/wiki/Marginalia#cite_note-12)".
 
@@ -93,18 +95,18 @@ Private annotations are, by definition, completely free and editable and can be 
 
 ## 8 Social
 
-**Social Applications** - Books can be the starting point of very specific **social networks** that work like Internet forums: only someone who has something really relevant to add tends to be given any space. 
+**Social Applications** - Books can be the starting point of very specific **social networks** that work like Internet forums: only someone who has something really relevant to add tends to be given any space.
 
-Nowadays, that less than a dozen very generic "social networks" centralize most of the social activity, an attitude of "fame for its own sake", typical of celebrity culture, which does not tend to generate anything constructive, is commonplace. 
+Nowadays, that less than a dozen very generic "social networks" centralize most of the social activity, an attitude of "fame for its own sake", typical of celebrity culture, which does not tend to generate anything constructive, is commonplace.
 
 If, instead of a few large social networks, there are millions of very specific communities, each for every book theme, generic identities tend to lose value. It doesn't make sense that someone who has nothing to contribute to the universe of a theme like “Harry Potter”, for example, has to seek space in a network whose center is in one of these books. (see *locus/place of speech*)
 
-
-
-
-**Public notes** - Unlike the anarchy of current “social networks”, here the idea of social behavior[^1] is taken seriously. Factual accuracy is not required—they are opinions, after all—but good behavior is by no means optional. Anything that has been recorded in public annotations will be marked in a blockchain and its author identified. Depending on the type of behavior, its author can be given either the “right to be forgotten” or a temporary or permanent ban from the network, including hardware lock.
+**Public notes** - In Ampersand social networks, the "social" behavior [^1] is taken very seriously. This does not mean that meshes have to be formal, nor to have factual accuracy - they are *opinions*, after all, not academic works — but good behavior is by no means optional. Anything that has been recorded in public annotations will be marked in a blockchain and will have its author identified. Depending on the type of behavior, authors can be notified, given either a “right to be forgotten”, a temporary or even a permanent ban from the network, including hardware lock.
 
 [^1] (see Erich Fromm)
+
+
+
 
 **Reference to a Mesh/Book**  - The open nature of annotations naturally allows books and meshes to be referenced in other books and meshes. How to combine all this information avoiding excess, redundancy or recursion? The same goes for both direct references to books and meshes, as well as indirect references to them. One idea might be to use a point structure such as “pagerank” to assign relevance in the information landscape. Something similar to the academic impact factor.
 
@@ -112,7 +114,7 @@ If, instead of a few large social networks, there are millions of very specific 
 
 **Users** can, of course, be passive readers, just like what happens in all other e-reading platforms, but this is not what is expected in a true *Ampersand* experience. Reader users are, of course, not expected to be *co-authors*, for this is too big a demand for any reader.
 
-The idea is for users to be **collaborators**, who, as the term says are, *co-laborers*, meaning people who, like the author, are also dedicated to the topic, albeit without as much authority, depth, competence or even dedication. 
+The idea is for users to be **collaborators**, who, as the term says are, *co-laborers*, meaning people who, like the author, are also dedicated to the topic, albeit without as much authority, depth, competence or even dedication.
 
 This is why their name stays at the right side of the Ampersand, like in "*The Origin of Species & Luli*"
 
