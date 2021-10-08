@@ -19,7 +19,7 @@ When an electronic text document is imported into the Format, its index/TOC is c
 
 ## Scrapbooks and private meshes
 
-Are collections of unrelated user notes, in any form available. When organised in a tree structure, they become private meshes.
+**Scrapbooks** are collections of unrelated user notes, in any form available. When organised in a tree structure, they become private meshes.
 
 Private user meshes can be made from scratch, from system-generated meshes or from public meshes. They can be kept private indefinitely or optimized and shared in three ways:
 - as full meshes;
