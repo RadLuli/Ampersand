@@ -9,10 +9,47 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "About Me.md",
+            "file": "README.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "59df7dafe728aaee"
+      },
+      {
+        "id": "372812794f9ccef8",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "README.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": true,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": false,
+              "centerStrength": 0.497058823529412,
+              "repelStrength": 9.99080882352941,
+              "linkStrength": 0.504411764705882,
+              "linkDistance": 260,
+              "scale": 1.764118533787013,
+              "close": true
+            }
+          }
+        },
+        "group": "59df7dafe728aaee"
       }
     ],
     "direction": "vertical"
@@ -68,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "About Me.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,11 +123,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a629f52cd5440aa3",
+  "active": "372812794f9ccef8",
   "lastOpenFiles": [
-    "About Me.md",
-    "ETC/markdown_syntax.md",
     "README.md",
-    "DEFS/ebook.md"
+    "DEFS/landscape.md",
+    "DEFS/ebook.md",
+    "DEFS/app.md",
+    "DEFS/ai.md",
+    "DEFS/oaf.md",
+    "About Me.md",
+    "ETC/markdown_syntax.md"
   ]
 }
