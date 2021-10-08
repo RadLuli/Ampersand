@@ -54,6 +54,9 @@ Radial diagrams have been around for a long time. Their major advantages towards
 
 TODO: I still don't know if it's worth keeping each map independent or to assume right away that all the recorded interpretations of a book will be parts of the same mesh. Information overload vs. access to all meshes.
 
+The open nature of annotations naturally allows books and meshes to be referenced in other books and meshes. How to combine all this information avoiding excess, redundancy or recursion? The same goes for both direct references to books and meshes, as well as indirect references. One idea might be to use a point structure such as “pagerank” to assign relevance in the information landscape. Something similar to the academic impact factor.
+
+
 ## 6 Notes
 *join with 5 Mesh?*
 
@@ -100,11 +103,6 @@ If, instead of a few large social networks, there are millions of very specific 
 [^1] (see Erich Fromm)
 
 
-
-
-**Reference to a Mesh/Book**  — The open nature of annotations naturally allows books and meshes to be referenced in other books and meshes. How to combine all this information avoiding excess, redundancy or recursion? The same goes for both direct references to books and meshes, as well as indirect references to them. One idea might be to use a point structure such as “pagerank” to assign relevance in the information landscape. Something similar to the academic impact factor.
-
-<a name="10">10</a>
 ## 10 Users + Authors
 
 **Users** can, of course, be passive readers, just like what happens in all other e-reading platforms, but this is not what is expected in a true *Ampersand* experience. Reader users are, of course, not expected to be *co-authors*, for this is too big a demand for any reader.
@@ -113,11 +111,15 @@ The idea is for users to be **collaborators**, who, as the term says are, *co-la
 
 This is why their name stays at the right side of the Ampersand, like in "*The Origin of Species & Luli*"
 
-**Author** — tend to be the most sacrificed in interactive content, since their work can never be considered "closed", since they are forced to keep the content constantly updated — or worse, to promptly respond to doubts or requests from readers — which tends to lead them to abandon interactive resources or replace a single author by a team responsible for editorial content. Neither practice is healthy: the first discourages interaction, and the second makes the content lose authenticity.
+**Authors** — tend to be the ones who suffer most sacrificed in interactive content environments, since their work can never be considered *finished*. This leads authors to keep the content constantly updated (and to promptly answer readers' requests and doubts, something that usually happens in blog posts open to online comments).
+
+None of the options is convenient to authors, which leads them either to entirely abandon all interactive resources or, when using them, to replace a single author with an editorial content team. The first practice discourages interaction, while the second one makes the content lose its authenticity.
+
+
+
 
 In the OAF format, the author does what he has always done and manages to reach a conclusion of his work, which, once published, starts to receive contributions from users. It will be up to them, if they deem it to be appropriate, any update of data or context, as well as its expansion. The author may, at any time, participate in the construction of public maps — identified, like all other users — but their contributions may have a greater weight or a more central location in the mesh. Like in LinkedIn comments, where the post's author is always marked as such.
 
-<a name="11">11</a>
 ## 11 Code of conduct
 **TODO**: code of ethics
 

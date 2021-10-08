@@ -7,8 +7,11 @@
         "id": "325e6534c37fd686",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DEFS/__kitchen.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DEFS/__kitchen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +88,8 @@
   },
   "active": "325e6534c37fd686",
   "lastOpenFiles": [
-    "ETC/markdown_syntax.md",
     "DEFS/__kitchen.md",
+    "ETC/markdown_syntax.md",
     "README.md",
     "DEFS/landscape.md",
     "DEFS/ebook.md",
