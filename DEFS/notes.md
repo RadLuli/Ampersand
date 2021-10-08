@@ -1,24 +1,41 @@
-# Reader annotations
-*Usage*
+# Meshes and scrapbooks
+*Automatic and user-generated reader annotations*
 
-## Scrapbooks
-Are collections of unrelated user notes, in any form available. When they are organised in a tree structure, they become meshes.
+A **Mesh** is a circular tree diagram, drawn in hyperbolic space[^1], and used to visually organize the information in an hierarchical form, showing the relationships among branches of a selected subject. Meshes are often created around a single concept in the center, to which associated representations of ideas are added. Major ideas connect directly to the central concept, and other concepts branch out from them.
 
-## Public notes and meshes
-Can be shared, ranked, combined with other notes and commented, just like books. They are dynamic, though, not to be considered finished, unless marked as such.
+Meshes look like *mind maps[^2]*, but with more features, multidimensional, and integrated and with an artificial intelligence system to interpret similar content and rank popular connections between similar associations.
 
-## Unpublished user-created meshes
-are considered **scrapbooks**, and can be made from scratch; from system-generated meshes; or from public meshes. They can be kept private indefinitely or optimized and shared in three ways: as full meshes; as parts of larger meshes; or as locations in the information landscape.
+Among the many strengths of this format are:
+- **Multi-dimensionality** — branches and topics can be of any size, and vary immensely;
+- **Non-linearity** — topics can start from any point;
+- **Thematic diversity** — any topic can build upon any other. Its relevance is up to the author of the mesh;
+- **Formal diversity** — colors, shapes, sounds, photos, videos, links, texts and dictations are some possible formats to use.
 
-Notes can only become public when their author is logged to the system, even if offline. Only logged users can submit content, comment or act on the network.   Unpublished user-created meshes are considered scrapbooks, and can be made from scratch; from system-generated meshes; or from public meshes.
 
-*join with 5 Mesh?*
+## Automatic meshes
 
-**Marginalia** — reader annotations in book margins[^1] are (for me, at least) the pinnacle point of a book relationship with its audience, intense up to the point where  readers cannot contain themselves and **need** to mark right there, in the book body, their opinion and/or additional comments. It is a very rich moment that needs to be shared, for even the note-takers tend to be surprised by their impact when rereading their notes. Sadly, these notes are usually wasted.
+When an electronic text document is imported into the Format, its index/TOC is copied to a mesh, and its ISBN (if available) is queried to manage its position in the [information landscape](landscape.md), and whether there are already any references to it or its authors.
 
-[^1]: See JACKSON, H. J. **Marginalia: Readers Writing in Books**. Yale University Press, 2001.
 
-*From Wikipedia* — "Catherine C. Marshall, doing research on the future of [user interface](https://en.wikipedia.org/wiki/User_interface "User interface") design, has studied the phenomenon of user annotation of texts. She discovered that in several university departments, students would scour the piles of textbooks at used book dealers for consistently annotated copies. The students had a good appreciation for their predecessors' distillation of knowledge. In recent years, the marginalia left behind by university students as they engage with library textbooks has also been a topic of interest to sociologists looking to understand the experience of being a university student. See [*Marginalia*](https://en.wikipedia.org/wiki/Marginalia), notes [8](https://en.wikipedia.org/wiki/Marginalia#cite_note-8), [9](https://en.swikipedia.org/wiki/Marginalia#cite_note-9), [10](https://en.wikipedia.org/wiki/Marginalia#cite_note-10), [11](https://en.wikipedia.org/wiki/Marginalia#cite_note-11) and [12](https://en.wikipedia.org/wiki/Marginalia#cite_note-12)".
+## Scrapbooks and private meshes
+
+Are collections of unrelated user notes, in any form available. When organised in a tree structure, they become private meshes.
+
+Private user meshes can be made from scratch, from system-generated meshes or from public meshes. They can be kept private indefinitely or optimized and shared in three ways:
+- as full meshes;
+- as parts of larger meshes; or
+- as locations in the information landscape.
+
+Notes can only become public when their author is logged to the system, even if offline. Only logged users can submit content, comment or act on the network.
+
+
+## Public Meshes
+
+The open nature of annotations naturally allows books and meshes to be referenced in other books and meshes. All public user contributions, even if minimal, can be aggregated to — or accessed from — other meshes, which can be shared, ranked, combined with other notes and commented like books.
+
+
+---
+
 
 
 **Contributions** here the name *Ampersand* shows its meaning. In the [OAF](oaf.md) format, the book author acts as a *spark*, a *conversation starter*, who doesn't even need to be central. A reader's work can be even bigger or more comprehensive than the original book its [mesh](mesh.md) is based upon, just like what happens in modern genres like *fanfic* or in collaborative books/blogs like “The Martian”, in which the commenting community has a strong influence over the work. Unlike this kind of blog that become books (and films, like *Julie&Julia*) authors don't keep all the glory for themselves. Readers/collaborators can cooperate with any amount of public meshes, texts and/or media.
@@ -40,3 +57,29 @@ All **public annotations**, whether created automatically or made by users, as w
 Private annotations (scrapbooks) are, by definition, completely free and editable and can be completely deleted. A private annotation can only be made public by its author from his device(s). Screenshots can be immediately deleted without any prior notice.
 
 The system does not care about the origin or piracy of books. There is no store.
+
+The system is designed to work seamlessly, no matter its connection status. In offline mode, all social features will be disabled, and some activities, like mesh upload or update can be stored for later usage.
+
+
+
+
+
+
+
+
+
+
+---
+### To do:
+- Understand mind maps, if they are a trademark of Buzan.
+- Understand mind maps, their effect as forms of learning and communication.
+- Is it worth to keep each public map independent or to assume right away that all the recorded interpretations of a book will be parts of the same public mesh, or whether this may result in information overload.
+- How to combine all this information avoiding excess, redundancy or recursion? The same goes for both direct references to books and meshes, as well as indirect references. One idea might be to use a point structure such as “pagerank” to assign relevance in the information landscape. Something similar to the academic impact factor.
+
+
+
+---
+
+[^1]: A hyperbolic tree is an information visualization and graph drawing method inspired by hyperbolic geometry. Nodes in focus are placed in the center and given more room, while out-of-focus nodes are compressed near  boundaries. Focusing on a different node brings it and its children to the center of the disk, while uninteresting portions of the tree are compressed. Hyperbolic trees employ hyperbolic space, which intrinsically has "more room" than Euclidean space. The Poincaré disk model of hyperbolic geometry displays the entire hyperbolic plane within a unit disk, making the entire tree visible at once. The unit disk gives a fish-eye lens view of the plane, giving more emphasis to nodes which are in focus and displaying nodes further out of focus closer to the boundary of the disk. Hyperbolic trees were patented in the U.S. by Xerox in 1996, since expired. See http://en.wikipedia.org/wiki/Hyperbolic_tree
+
+[^2]: the term "Mind Map" was popularized by Tony Buzan, and can even be a trademark. Anyway, it's just a part of what a Mesh can become.
