@@ -2,19 +2,19 @@
 
 ## 3 eBook
 
-**Books** - text documents in computer-readable formats. Scanned formats (.djvu, photocopy PDFs etc) can be digitized but will not generate automatic meshes. These formats are, gladly, increasingly uncommon.
+**Books** — text documents in computer-readable formats. Scanned formats (.djvu, photocopy PDFs etc) can be digitized but will not generate automatic meshes. These formats are, gladly, increasingly uncommon.
 
-**Import** - retrieve the index/TOC of the text and transform it into a mesh[^1]. With the support of Artificial Intelligence algorithms, both essential and redundant parts of the TOC are *optimized*, identifying both essential and redundant parts of the converted index, with suggestions on its form and location, before integrating it to the information landscape.
+**Import** — retrieve the index/TOC of the text and transform it into a mesh[^1]. With the support of Artificial Intelligence algorithms, both essential and redundant parts of the TOC are *optimized*, identifying both essential and redundant parts of the converted index, with suggestions on its form and location, before integrating it to the information landscape.
 
-[^1]: **TODO:** - see Obsidian Knowledge management, also study the EPUB3 format to understand how the index/TOC is marked. Also check the structure of library cards, the Dewey index and the formation of the ISBN, as well as the Library of \[US\] Congress. Wikipedia's set of categories is also an option. Is it possible, through the ISBN or catalog card, to discover the macro area in which a given book is located to locate it in an information landscape?
+[^1]: **TODO:** — see Obsidian Knowledge management, also study the EPUB3 format to understand how the index/TOC is marked. Also check the structure of library cards, the Dewey index and the formation of the ISBN, as well as the Library of \[US\] Congress. Wikipedia's set of categories is also an option. Is it possible, through the ISBN or catalog card, to discover the macro area in which a given book is located to locate it in an information landscape?
 
 
 
 ## 4 Information Landscape
 
-**information landscape** [^1] - the idea is to present a content block as an address in an urban landscape, which can be visited in different degrees of interaction and depth, depending on the vehicle used.
+**information landscape** [^1] — the idea is to present a content block as an address in an urban landscape, which can be visited in different degrees of interaction and depth, depending on the vehicle used.
 
-I believe that the understanding (and even the exposure to) any content is never linear, nor it happens at the same depth level for different readers - a physicist and a philosopher can read a math book in quite different ways. Instead of exposing a universe of knowledge in the same way to everyone, the idea is to distribute the knowledge in a three-dimensional "landscape", which can be visited in different ways, each with a different level of exposure, depth and interaction possible or demanded. Some possible interaction ways are:
+I believe that the understanding (and even the exposure to) any content is never linear, nor it happens at the same depth level for different readers — a physicist and a philosopher can read a math book in quite different ways. Instead of exposing a universe of knowledge in the same way to everyone, the idea is to distribute the knowledge in a three-dimensional "landscape", which can be visited in different ways, each with a different level of exposure, depth and interaction possible or demanded. Some possible interaction ways are:
 
 | Vehicle | Information level | Location | Freedom | Interactivity |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -26,13 +26,11 @@ I believe that the understanding (and even the exposure to) any content is never
 | **Walking** | Deep | Free | Hight | High |
 | **Visit to address** | Very deep | Free | Extreme | Very high |
 
-This way, those who do not know a subject (Jazz, for example) can take a tour bus with a very guided tour and specific stopping points so that they can get a good overview of the subject. On the other hand, an enthusiast or specialist (a musician, in the previous example) would not waste time with generalities and could go straight to the necessary address, extracting information incomprehensible (or invaluable) for a layman.
+This way, someone who does not know a subject (e.g. Jazz) can take a guided tour bus with predetermined stopping points on the way, to get a good overview of the subject. An enthusiast or specialist (a musician, in the previous example) would not waste time with imprecisions and could go straight to the necessary address, extracting information incomprehensible (or not valid) to a layperson.
 
-A classification system, such as that of the US Library of Congress, can serve as a frame of reference.
+**TODO:** Tags, questionnaires, taxonomies, folksonomies can help determine (or refine) a location or address in an informational landscape. See categories (and even the Amazon API[^2]), why not? ISBN = ZIP code?
 
-**TODO:** Tags, questionnaires, taxonomies, folksonomies can help determine (or refine) a location or address in an informational landscape. See categories (and API[^2]) from Amazon, why not?
-
-[^1] The first (and only) time I saw the term used was an article by Fabrice Florin in a book on interactive multimedia learning published by Apple in 1990. There is no shadow of this concept online and, by the way, the concept itself author forgot about him. So I'm going to take ownership of it, even because it was something that has never left my mind since my master's degree. I'll see if he says what I imagine or if it's “just” my interpretation.
+[^1] The first (and only) time I saw the term used was an article by Fabrice Florin in a book on interactive multimedia learning published by Apple in 1990. There's no trace of this concept online and it seems that even its author forgot about it.
 
 [^2] See Amazon Books API
 
@@ -43,28 +41,27 @@ A classification system, such as that of the US Library of Congress, can serve a
 The mesh design should be more geometric, more angular than a mind map.
 
 Radial diagrams have been around for a long time. Their major advantages towards linear texts are:
-- **Multi-dimensionality** - branches and topics can be of any size, and vary immensely;
-- **Non-linearity** - like ideas in minds, a topic can start from any point;
-- **Thematic diversity** - any topic can build on any other. The relevance is up to the author
-- **Formal diversity** - colors, shapes, sounds, photos, videos, links, texts and dictations are some possible formats to use
+- **Multi-dimensionality** — branches and topics can be of any size, and vary immensely;
+- **Non-linearity** — like ideas in minds, a topic can start from any point;
+- **Thematic diversity** — any topic can build on any other. The relevance is up to the author
+- **Formal diversity** — colors, shapes, sounds, photos, videos, links, texts and dictations are some possible formats to use
 
 [^1]: the "Mind Map" term was popularized by Tony Buzan, and it is only a part of what a *mesh* really is.
 
 **TODO:** understand a little more about mind maps, their importance and effects as forms of learning and communication.
 
+**Registered Meshes** — In addition to the automatic mesh, generated from the index/TOC, any user public contribution, even if minimal, can be aggregated to — or accessed from — other meshes.
 
-**Registered mesh** - In addition to the automatic mesh, generated from the index/TOC, any user contribution, even if minimal (as long as it is public), can be aggregated to - or accessed from - other meshes.
-
-TODO: I still don't know if it's worth maintaining the independence of each map or if it's not better to assume right away that the reader would have access to all the recorded interpretations of the book since the first visit. To see.
+TODO: I still don't know if it's worth keeping each map independent or to assume right away that all the recorded interpretations of a book will be parts of the same mesh. Information overload vs. access to all meshes.
 
 ## 6 Notes
 *join with 5 Mesh?*
 
-**Marginalia** - reader annotations in book margins[^1] are (for me, at least) the pinnacle point of a book relationship with its audience, intense up to the point where  readers cannot contain themselves and **need** to mark right there, in the book body, their opinion and/or additional comments. It is a very rich moment that needs to be shared, for even the note-takers tend to be surprised by their impact when rereading their notes. Sadly, these notes are usually wasted.
+**Marginalia** — reader annotations in book margins[^1] are (for me, at least) the pinnacle point of a book relationship with its audience, intense up to the point where  readers cannot contain themselves and **need** to mark right there, in the book body, their opinion and/or additional comments. It is a very rich moment that needs to be shared, for even the note-takers tend to be surprised by their impact when rereading their notes. Sadly, these notes are usually wasted.
 
 [^1]: See JACKSON, H. J. **Marginalia: Readers Writing in Books**. Yale University Press, 2001.
 
-*From Wikipedia* - "Catherine C. Marshall, doing research on the future of [user interface](https://en.wikipedia.org/wiki/User_interface "User interface") design, has studied the phenomenon of user annotation of texts. She discovered that in several university departments, students would scour the piles of textbooks at used book dealers for consistently annotated copies. The students had a good appreciation for their predecessors' distillation of knowledge. In recent years, the marginalia left behind by university students as they engage with library textbooks has also been a topic of interest to sociologists looking to understand the experience of being a university student. See [*Marginalia*](https://en.wikipedia.org/wiki/Marginalia), notes [8](https://en.wikipedia.org/wiki/Marginalia#cite_note-8), [9](https://en.swikipedia.org/wiki/Marginalia#cite_note-9), [10](https://en.wikipedia.org/wiki/Marginalia#cite_note-10), [11](https://en.wikipedia.org/wiki/Marginalia#cite_note-11) and [12](https://en.wikipedia.org/wiki/Marginalia#cite_note-12)".
+*From Wikipedia* — "Catherine C. Marshall, doing research on the future of [user interface](https://en.wikipedia.org/wiki/User_interface "User interface") design, has studied the phenomenon of user annotation of texts. She discovered that in several university departments, students would scour the piles of textbooks at used book dealers for consistently annotated copies. The students had a good appreciation for their predecessors' distillation of knowledge. In recent years, the marginalia left behind by university students as they engage with library textbooks has also been a topic of interest to sociologists looking to understand the experience of being a university student. See [*Marginalia*](https://en.wikipedia.org/wiki/Marginalia), notes [8](https://en.wikipedia.org/wiki/Marginalia#cite_note-8), [9](https://en.swikipedia.org/wiki/Marginalia#cite_note-9), [10](https://en.wikipedia.org/wiki/Marginalia#cite_note-10), [11](https://en.wikipedia.org/wiki/Marginalia#cite_note-11) and [12](https://en.wikipedia.org/wiki/Marginalia#cite_note-12)".
 
 
 
@@ -92,20 +89,20 @@ Private annotations are, by definition, completely free and editable and can be 
 
 ## 8 Social
 
-**Social Applications** - Books can be the starting point of very specific **social networks** that work like Internet forums: only someone who has something really relevant to add tends to be given any space.
+**Social Applications** — Books can be the starting point of very specific **social networks** that work like Internet forums: only someone who has something really relevant to add tends to be given any space.
 
 Nowadays, that less than a dozen very generic "social networks" centralize most of the social activity, an attitude of "fame for its own sake", typical of celebrity culture, which does not tend to generate anything constructive, is commonplace.
 
 If, instead of a few large social networks, there are millions of very specific communities, each for every book theme, generic identities tend to lose value. It doesn't make sense that someone who has nothing to contribute to the universe of a theme like “Harry Potter”, for example, has to seek space in a network whose center is in one of these books. (see *locus/place of speech*)
 
-**Public notes** - In Ampersand social networks, the "social" behavior [^1] is taken very seriously. This does not mean that meshes have to be formal, nor to have factual accuracy - they are *opinions*, after all, not academic works — but good behavior is by no means optional. Anything that has been recorded in public annotations will be marked in a blockchain and will have its author identified. Depending on the type of behavior, authors can be notified, given either a “right to be forgotten”, a temporary or even a permanent ban from the network, including hardware lock.
+**Public notes** — In Ampersand social networks, the "social" behavior [^1] is taken very seriously. This does not mean that meshes have to be formal, nor to have factual accuracy — they are *opinions*, after all, not academic works — but good behavior is by no means optional. Anything that has been recorded in public annotations will be marked in a blockchain and will have its author identified. Depending on the type of behavior, authors can be notified, given either a “right to be forgotten”, a temporary or even a permanent ban from the network, including hardware lock.
 
 [^1] (see Erich Fromm)
 
 
 
 
-**Reference to a Mesh/Book**  - The open nature of annotations naturally allows books and meshes to be referenced in other books and meshes. How to combine all this information avoiding excess, redundancy or recursion? The same goes for both direct references to books and meshes, as well as indirect references to them. One idea might be to use a point structure such as “pagerank” to assign relevance in the information landscape. Something similar to the academic impact factor.
+**Reference to a Mesh/Book**  — The open nature of annotations naturally allows books and meshes to be referenced in other books and meshes. How to combine all this information avoiding excess, redundancy or recursion? The same goes for both direct references to books and meshes, as well as indirect references to them. One idea might be to use a point structure such as “pagerank” to assign relevance in the information landscape. Something similar to the academic impact factor.
 
 <a name="10">10</a>
 ## 10 Users + Authors
@@ -116,9 +113,9 @@ The idea is for users to be **collaborators**, who, as the term says are, *co-la
 
 This is why their name stays at the right side of the Ampersand, like in "*The Origin of Species & Luli*"
 
-**Author** - tend to be the most sacrificed in interactive content, since their work can never be considered "closed", since they are forced to keep the content constantly updated - or worse, to promptly respond to doubts or requests from readers - which tends to lead them to abandon interactive resources or replace a single author by a team responsible for editorial content. Neither practice is healthy: the first discourages interaction, and the second makes the content lose authenticity.
+**Author** — tend to be the most sacrificed in interactive content, since their work can never be considered "closed", since they are forced to keep the content constantly updated — or worse, to promptly respond to doubts or requests from readers — which tends to lead them to abandon interactive resources or replace a single author by a team responsible for editorial content. Neither practice is healthy: the first discourages interaction, and the second makes the content lose authenticity.
 
-In the OAF format, the author does what he has always done and manages to reach a conclusion of his work, which, once published, starts to receive contributions from users. It will be up to them, if they deem it to be appropriate, any update of data or context, as well as its expansion. The author may, at any time, participate in the construction of public maps - identified, like all other users - but their contributions may have a greater weight or a more central location in the mesh. Like in LinkedIn comments, where the post's author is always marked as such.
+In the OAF format, the author does what he has always done and manages to reach a conclusion of his work, which, once published, starts to receive contributions from users. It will be up to them, if they deem it to be appropriate, any update of data or context, as well as its expansion. The author may, at any time, participate in the construction of public maps — identified, like all other users — but their contributions may have a greater weight or a more central location in the mesh. Like in LinkedIn comments, where the post's author is always marked as such.
 
 <a name="11">11</a>
 ## 11 Code of conduct
