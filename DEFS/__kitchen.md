@@ -67,10 +67,6 @@ The open nature of annotations naturally allows books and meshes to be reference
 *From Wikipedia* — "Catherine C. Marshall, doing research on the future of [user interface](https://en.wikipedia.org/wiki/User_interface "User interface") design, has studied the phenomenon of user annotation of texts. She discovered that in several university departments, students would scour the piles of textbooks at used book dealers for consistently annotated copies. The students had a good appreciation for their predecessors' distillation of knowledge. In recent years, the marginalia left behind by university students as they engage with library textbooks has also been a topic of interest to sociologists looking to understand the experience of being a university student. See [*Marginalia*](https://en.wikipedia.org/wiki/Marginalia), notes [8](https://en.wikipedia.org/wiki/Marginalia#cite_note-8), [9](https://en.swikipedia.org/wiki/Marginalia#cite_note-9), [10](https://en.wikipedia.org/wiki/Marginalia#cite_note-10), [11](https://en.wikipedia.org/wiki/Marginalia#cite_note-11) and [12](https://en.wikipedia.org/wiki/Marginalia#cite_note-12)".
 
 
-
-
-
-
 **Contributions** here the name *Ampersand* shows its meaning. In the [OAF](oaf.md) format, the book author acts as a *spark*, a *conversation starter*, who doesn't even need to be central. A reader's work can be even bigger or more comprehensive than the original book its [mesh](mesh.md) is based upon, just like what happens in modern genres like *fanfic* or in collaborative books/blogs like “The Martian”, in which the commenting community has a strong influence over the work. Unlike this kind of blog that become books (and films, like *Julie&Julia*) authors don't keep all the glory for themselves. Readers/collaborators can cooperate with any amount of public meshes, texts and/or media.
 
 **Annotations** can be made on:
@@ -83,11 +79,13 @@ The open nature of annotations naturally allows books and meshes to be reference
 - Drawings
 - Links
 
-Notes should be in **<span style="color:#18ffff">color</span>** to facilitate memorizing content.
+Notes should be in **<span style="color:#18ffff">color</span>** to speed up content identification and recall.
 
-All **public annotations**, whether generated automatically or by user contributions, as well as the record of your edits or changes are recorded in a blockchain. The user can access or modify previous public editions, but even if they are deleted, they will remain stored to avoid the distribution of contents contrary to the platform's code of ethics.
+All **public annotations**, whether created automatically or made by users, as well as their edit log, are recorded in a blockchain. Annotation authors can access or modify previous public editions, but even if they are deleted from the public mesh, the platform can access its log in the blockchain to prevent misconduct.
 
-Private annotations are, by definition, completely free and editable and can be completely deleted. A private annotation can only be made public by its author from his device(s). Screenshots can be immediately deleted without any prior notice
+Private annotations (scrapbooks) are, by definition, completely free and editable and can be completely deleted. A private annotation can only be made public by its author from his device(s). Screenshots can be immediately deleted without any prior notice.
+
+The system does not care about the origin or piracy of books. There is no store.
 
 
 ## 8 Social
@@ -111,19 +109,13 @@ The idea is for users to be **collaborators**, who, as the term says are, *co-la
 
 This is why their name stays at the right side of the Ampersand, like in "*The Origin of Species & Luli*"
 
-**Authors** — tend to be the ones who suffer most in interactive content environments, since their work can never be considered *finished*. This leads most authors either to keep the content constantly updated (and to promptly answer readers' requests and doubts, something that usually happens in blog posts open to online comments), or to be replaced by editorial/content teams. None of the options benefit the reading experience, for they may discourage interaction, or, when it happens, multiple anonymous authors make a content lose its authenticity.
+**Authors** — are the ones most affected in interactive content environments, since their work can never be considered *finished*. This leads most authors either to keep the content constantly updated (and to promptly answer readers' requests and doubts, something that usually happens in blog posts open to online comments), or to be replaced by editorial/content teams. None of the options benefit the reading experience, for they may discourage interaction, or, when it happens, multiple anonymous authors make a content lose its authenticity.
 
+In the OAF format, an author does what has always been done, finishing a book with no interruptions. Once imported, the book itself is immutable, user contributions are registered in its mesh and requests can are dealt with the community - of which an author can decide how to take part.
 
-
-
-In the OAF format, the author does what he has always done and manages to reach a conclusion of his work, which, once published, starts to receive contributions from users. It will be up to them, if they deem it to be appropriate, any update of data or context, as well as its expansion. The author may, at any time, participate in the construction of public maps — identified, like all other users — but their contributions may have a greater weight or a more central location in the mesh. Like in LinkedIn comments, where the post's author is always marked as such.
+  It will be up to the members of the social network built around the book, if they deem it to be appropriate, to update or expand any context or data. Authors can, at any time, engage in the building of public meshes (provided that they are properly identified, like all other users), and their pieces may have a greater weight or a more central location in the mesh. Like in LinkedIn comments, where the post's author is always marked as such.
 
 ## 11 Code of conduct
 **TODO**: code of ethics
-
-**Piracy**
-
-dasds
-The system does not care about the origin or piracy of books. There is no store.
 
 ---

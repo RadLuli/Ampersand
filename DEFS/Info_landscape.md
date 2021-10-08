@@ -5,6 +5,24 @@ An **information landscape** is a graphic metaphor to visualize abstract data gr
 
 **Locations** in the information landscape are addresses in the graphic representation of the content. Classification systems, like the *Library of \[US\] Congress Classification*[^1], the *Dewey Decimal Classification*[^2], *Wikipedia Categories*[^3] and number addressing systems like *ISBN*[^4] can be used.
 
+**information landscape** [^5] — the idea is to present a content block as an address in an urban landscape, which can be visited in different degrees of interaction and depth, depending on the vehicle used.
+
+I believe that the understanding (and even the exposure to) any content is never linear, nor it happens at the same depth level for different readers — a physicist and a philosopher can read a math book in quite different ways. Instead of exposing a universe of knowledge in the same way to everyone, the idea is to distribute the knowledge in a three-dimensional "landscape", which can be visited in different ways, each with a different level of exposure, depth and interaction possible or demanded. Some possible interaction ways are:
+
+| Vehicle | Information level | Location | Freedom | Interactivity |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| **Tour bus** | Shallow | Guided | None | Very little |
+| **Public transport (surface)** | Shallow | Fixed | None | little |
+| **Subway** | Focused | Fixed | None | Little |
+| **Car/Taxi** | Average | Free | Little | Little |
+| **Bicycle** | Deep | Free | Medium | Medium |
+| **Walking** | Deep | Free | Hight | High |
+| **Visit to address** | Very deep | Free | Extreme | Very high |
+
+This way, someone who does not know a subject (e.g. Jazz) can take a guided tour bus with predetermined stopping points on the way, to get a good overview of the subject. An enthusiast or specialist (a musician, in the previous example) would not waste time with imprecisions and could go straight to the necessary address, extracting information incomprehensible (or not valid) to a layperson.
+
+**TODO:** Tags, questionnaires, taxonomies, folksonomies can help determine (or refine) a location or address in an informational landscape. See categories (and even the Amazon API[^6]), why not? ISBN = ZIP code?
+
 
 
 [^1]: The *Library of \[US\] Congress Classification* is a system of library classification used for shelving books in a library. It has been criticized for lacking a sound theoretical basis; many of the classification decisions were driven by the practical needs of that library rather than epistemological considerations. Although it divides subjects into broad categories, it is essentially enumerative in nature. That is, it provides a guide to the books actually in one library's collections, not a classification of the world. See http://en.wikipedia.org/wiki/Library_of_Congress_Classification
@@ -17,3 +35,7 @@ An **information landscape** is a graphic metaphor to visualize abstract data gr
 
 
 [^4]: The International Standard Book Number (*ISBN*) is an unique numeric commercial book identifier, purchased from the International ISBN Agency and its affiliates. The number is 10 digits long if assigned before 2007, and 13 digits long after that. The assigning method is nation-specific and varies between countries, often depending on how large the publishing industry is. See http://en.wikipedia.org/wiki/International_Standard_Book_Number. And an article on using ISBN as Uniform Resource Names: http://datatracker.ietf.org/doc/html/rfc3187
+
+[^5]: The first (and only) time I saw the term used was an article by Fabrice Florin in a book on interactive multimedia learning published by Apple in 1990. There's no trace of this concept online and it seems that even its author forgot about it.
+
+[^6]: See Amazon Books API
