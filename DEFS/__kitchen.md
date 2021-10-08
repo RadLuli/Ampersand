@@ -4,11 +4,15 @@
 
 **Books** - text documents in computer-readable formats. Scanned formats (.djvu, photocopy PDFs etc) can be digitized but will not generate automatic meshes. These formats are, gladly, increasingly uncommon.
 
-**Import** - the important thing in this process is to retrieve the index/TOC of the text and transform it into mesh. With the support of Artificial Intelligence algorithms, it can be integrated into an informational landscape and even identify essential or redundant points of the converted TOC.
+**Import** - retrieve the index/TOC of the text and transform it into a mesh[^1]. With the support of Artificial Intelligence algorithms, both essential and redundant parts of the TOC
+
+
+it can be integrated into an informational landscape and even identify essential or redundant points of the converted TOC.
+[^1]: see Obsidian Knowledge management
 
 **Index/TOC** - it is necessary to analyze the EPUB3 format to understand how the index/Table of contents is marked, as it is from this content that the first map will be generated.
 
-Is it possible, through the ISBN or catalog card, to discover the macro area in which a given book is located to locate it in an informative landscape?[^1]
+Is it possible, through the ISBN or catalog card, to discover the macro area in which a given book is located to locate it in an information landscape?[^1]
 
 [^1] Check the structuring of catalog cards, the Dewey index and the formation of the ISBN, as well as the bar code catalog of the Library of Congress of the United States. Wikipedia's set of categories is also an option.
 
