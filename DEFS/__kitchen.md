@@ -111,9 +111,7 @@ The idea is for users to be **collaborators**, who, as the term says are, *co-la
 
 This is why their name stays at the right side of the Ampersand, like in "*The Origin of Species & Luli*"
 
-**Authors** — tend to be the ones who suffer most sacrificed in interactive content environments, since their work can never be considered *finished*. This leads authors to keep the content constantly updated (and to promptly answer readers' requests and doubts, something that usually happens in blog posts open to online comments).
-
-None of the options is convenient to authors, which leads them either to entirely abandon all interactive resources or, when using them, to replace a single author with an editorial content team. The first practice discourages interaction, while the second one makes the content lose its authenticity.
+**Authors** — tend to be the ones who suffer most in interactive content environments, since their work can never be considered *finished*. This leads most authors either to keep the content constantly updated (and to promptly answer readers' requests and doubts, something that usually happens in blog posts open to online comments), or to be replaced by editorial/content teams. None of the options benefit the reading experience, for they may discourage interaction, or, when it happens, multiple anonymous authors make a content lose its authenticity.
 
 
 

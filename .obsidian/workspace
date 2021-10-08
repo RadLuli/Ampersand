@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "325e6534c37fd686",
+        "id": "4eacaf23218f4b01",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DEFS/__kitchen.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEFS/__kitchen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "325e6534c37fd686",
+  "active": "4eacaf23218f4b01",
   "lastOpenFiles": [
     "DEFS/__kitchen.md",
     "ETC/markdown_syntax.md",
