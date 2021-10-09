@@ -18,3 +18,7 @@ The *Ampersand* is the [OAF](oaf.md) reader application, the default application
 - Audio recording
 - OCR
 - [Artificial Intelligence](ai.md) features
+
+The system is intended to work seamlessly, no matter its connection status. In offline mode, all social features will be disabled, and some activities, like mesh upload or update can be stored for later usage.
+
+All public data, graphs and user blockchain databases processing is to be distributed among all connected hardware and apps.

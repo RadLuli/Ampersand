@@ -1,13 +1,9 @@
 # Social Applications
 *Usage*
 
+In this environment, a book author acts as a *spark*, a *conversation starter*, who doesn't even need to be central. A reader's work can be bigger or even more comprehensive than the original book its [public mesh](meshes.md) is based upon. Readers/collaborators can cooperate with any amount of public meshes, texts and/or media.
 
-
-
-**Contributions** here the name *Ampersand* shows its meaning. In the [OAF](oaf.md) format, the book author acts as a *spark*, a *conversation starter*, who doesn't even need to be central. A reader's work can be even bigger or more comprehensive than the original book its [mesh](mesh.md) is based upon, just like what happens in modern genres like *fanfic* or in collaborative books/blogs like “The Martian”, in which the commenting community has a strong influence over the work. Unlike this kind of blog that become books (and films, like *Julie&Julia*) authors don't keep all the glory for themselves. Readers/collaborators can cooperate with any amount of public meshes, texts and/or media.
-
-
-
+The dynamic is the same as what happens in modern genres like *fanfic* or collaborative books/blogs like “The Martian”, in which the commenting community has a strong influence over the work. Unlike this kind of blog that may become books (and films, like *Julie&Julia*), authors don't keep all the glory for themselves.
 
 Books are the starting point of specific **social networks**, which work like Internet forums: space is given only to someone who has something relevant to add.
 
@@ -21,9 +17,7 @@ The idea is not to have a book store, nor a proprietary format. Piracy is not a 
 
 ---
 
-Content management: all non-public user content is regarded as private, to be ignored by all platform management. Cloud backups, when available, are to be encoded through cryptography.
 
-All public data, graphs and user blockchain databases processing is to be distributed among all connected hardware and apps.
 
 ---
 

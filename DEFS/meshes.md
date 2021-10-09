@@ -55,8 +55,9 @@ All public meshes are recorded in a blockchain. Their authors can access or modi
 
 Private annotations (and scrapbooks) are, by definition, completely free and editable and can be completely deleted. A private annotation can only be made public by its author from his device(s). Screenshots can be immediately deleted without any prior notice.
 
-The idea is not to have a book store, nor a proprietary format. Piracy is not a platform concern, it does not scan private user content,it only scans public user meshes, which are also hosted and registered in a blockchain.
+All non-public user content is regarded as private, to be ignored by all platform management. Cloud backups, when available, are to be encoded through cryptography.
 
+There is no intention to develop a *mesh store*, nor a proprietary format. Piracy is not a platform concern, it does not scan private user content,it only scans public user meshes, which are also hosted and registered in a blockchain.
 
 
 ---
