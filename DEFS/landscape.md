@@ -1,13 +1,9 @@
 # Information Landscape
 *definition*
 
-An **information landscape** is a graphic metaphor to visualize abstract data groups in different depth levels. Its visitors can use different "vehicles" and follow different routes to get to the information needed - e. g. a "guided tour bus" gives an overview of the journey, with a broad scope, but little freedom, while "walking aimlessly" leads to the opposite. The idea here is to provide a single information structure, to be experienced in different ways.
+I believe that the understanding (and even the exposure to) any content is never linear, nor it happens at the same depth level for different readers — a physicist and a philosopher can read a math book in quite different ways. Instead of exposing a universe of knowledge in the same way to everyone, the idea is to distribute the knowledge in a three-dimensional "landscape", which can be visited in different ways, each with a different level of exposure, depth and interaction possible or demanded.
 
-**Locations** in the information landscape are addresses in the graphic representation of the content. Classification systems, like the *Library of \[US\] Congress Classification*[^1], the *Dewey Decimal Classification*[^2], *Wikipedia Categories*[^3] and number addressing systems like *ISBN*[^4] can be used.
-
-**information landscape** [^5] — the idea is to present a content block as an address in an urban landscape, which can be visited in different degrees of interaction and depth, depending on the vehicle used.
-
-I believe that the understanding (and even the exposure to) any content is never linear, nor it happens at the same depth level for different readers — a physicist and a philosopher can read a math book in quite different ways. Instead of exposing a universe of knowledge in the same way to everyone, the idea is to distribute the knowledge in a three-dimensional "landscape", which can be visited in different ways, each with a different level of exposure, depth and interaction possible or demanded. Some possible interaction ways are:
+An **information landscape** is a graphic metaphor to visualize abstract data groups in different depth levels. Its visitors can use different "vehicles" and follow different routes to get to the information needed - e. g. a "guided tour bus" gives an overview of the journey, with a broad scope, but little freedom, while "walking aimlessly" leads to the opposite. The idea here is to provide a single information structure, to be experienced in different ways. Some possible interaction ways are:
 
 | Vehicle | Information level | Location | Freedom | Interactivity |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
@@ -21,9 +17,16 @@ I believe that the understanding (and even the exposure to) any content is never
 
 This way, someone who does not know a subject (e.g. Jazz) can take a guided tour bus with predetermined stopping points on the way, to get a good overview of the subject. An enthusiast or specialist (a musician, in the previous example) would not waste time with imprecisions and could go straight to the necessary address, extracting information incomprehensible (or not valid) to a layperson.
 
-**TODO:** Tags, questionnaires, taxonomies, folksonomies can help determine (or refine) a location or address in an informational landscape. See categories (and even the Amazon API[^6]), why not? ISBN = ZIP code?
+**Locations** in the information landscape are content blocks represented as addresses in a graphic representation of knowledge. Classification systems, like the *Library of \[US\] Congress Classification*[^1], the *Dewey Decimal Classification*[^2], *Wikipedia Categories*[^3] and number addressing systems like *ISBN*[^4] can be used.
 
 
+---
+### To do:
+- use tags, questionnaires, taxonomies, folksonomies to help determine (or refine) a location or address in an informational landscape?
+- See categories (and even the Amazon API[^6]), why not?
+- ISBN = ZIP code?
+
+---
 
 [^1]: The *Library of \[US\] Congress Classification* is a system of library classification used for shelving books in a library. It has been criticized for lacking a sound theoretical basis; many of the classification decisions were driven by the practical needs of that library rather than epistemological considerations. Although it divides subjects into broad categories, it is essentially enumerative in nature. That is, it provides a guide to the books actually in one library's collections, not a classification of the world. See http://en.wikipedia.org/wiki/Library_of_Congress_Classification
 

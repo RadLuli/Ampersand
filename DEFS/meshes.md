@@ -16,6 +16,21 @@ Among the many strengths of this format are:
 
 When an electronic text document is imported into the Format, its index/TOC is copied to a mesh, and its ISBN (if available) is queried to manage its position in the [information landscape](landscape.md), and whether there are already any references to it or its authors.
 
+Scanned formats (.djvu, photocopy PDFs etc) can be digitized but will not generate automatic meshes. These formats are, gladly, increasingly uncommon.
+
+
+## Annotations
+
+User **annotations**, when written or drawn, should be made in **<span style="color:#18ffff">color</span>** to speed up content identification and recall. They can be made on:
+- Typed text
+- Dictated text
+- Manuscript
+- Audio recordings
+- Photos
+- Video recordings
+- Drawings
+- Links
+
 
 ## Scrapbooks and private meshes
 
@@ -33,39 +48,14 @@ Notes can only become public when their author is logged to the system, even if 
 
 The open nature of annotations naturally allows books and meshes to be referenced in other books and meshes. All public user contributions, even if minimal, can be aggregated to — or accessed from — other meshes, which can be shared, ranked, combined with other notes and commented like books.
 
-
----
-
+All public meshes are recorded in a blockchain. Their authors can access or modify previous public editions, but even if they are deleted from the public mesh, the platform can access its log in the blockchain to prevent misconduct.
 
 
-**Contributions** here the name *Ampersand* shows its meaning. In the [OAF](oaf.md) format, the book author acts as a *spark*, a *conversation starter*, who doesn't even need to be central. A reader's work can be even bigger or more comprehensive than the original book its [mesh](mesh.md) is based upon, just like what happens in modern genres like *fanfic* or in collaborative books/blogs like “The Martian”, in which the commenting community has a strong influence over the work. Unlike this kind of blog that become books (and films, like *Julie&Julia*) authors don't keep all the glory for themselves. Readers/collaborators can cooperate with any amount of public meshes, texts and/or media.
+## Private annotations
 
-**Annotations** can be made on:
-- Typed text
-- Dictated text
-- Manuscript
-- Audio recordings
-- Photos
-- Video recordings
-- Drawings
-- Links
+Private annotations (and scrapbooks) are, by definition, completely free and editable and can be completely deleted. A private annotation can only be made public by its author from his device(s). Screenshots can be immediately deleted without any prior notice.
 
-Notes should be in **<span style="color:#18ffff">color</span>** to speed up content identification and recall.
-
-All **public annotations**, whether created automatically or made by users, as well as their edit log, are recorded in a blockchain. Annotation authors can access or modify previous public editions, but even if they are deleted from the public mesh, the platform can access its log in the blockchain to prevent misconduct.
-
-Private annotations (scrapbooks) are, by definition, completely free and editable and can be completely deleted. A private annotation can only be made public by its author from his device(s). Screenshots can be immediately deleted without any prior notice.
-
-The system does not care about the origin or piracy of books. There is no store.
-
-The system is designed to work seamlessly, no matter its connection status. In offline mode, all social features will be disabled, and some activities, like mesh upload or update can be stored for later usage.
-
-
-
-
-
-
-
+The idea is not to have a book store, nor a proprietary format. Piracy is not a platform concern, it does not scan private user content,it only scans public user meshes, which are also hosted and registered in a blockchain.
 
 
 
@@ -75,8 +65,6 @@ The system is designed to work seamlessly, no matter its connection status. In o
 - Understand mind maps, their effect as forms of learning and communication.
 - Is it worth to keep each public map independent or to assume right away that all the recorded interpretations of a book will be parts of the same public mesh, or whether this may result in information overload.
 - How to combine all this information avoiding excess, redundancy or recursion? The same goes for both direct references to books and meshes, as well as indirect references. One idea might be to use a point structure such as “pagerank” to assign relevance in the information landscape. Something similar to the academic impact factor.
-
-
 
 ---
 

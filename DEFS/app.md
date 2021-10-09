@@ -1,4 +1,4 @@
-# Reader
+# Ampersand (OAF Reader)
 *Application*
 
 The *Ampersand* is the [OAF](oaf.md) reader application, the default application in dedicated devices and the free, open source app to install in generic smartphones, tablets and desktop apps.
