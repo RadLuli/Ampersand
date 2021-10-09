@@ -1,7 +1,7 @@
 # Marginalia
 *Reader annotations*
 
-Reader annotations in book margins[^1] are (for me, at least) the pinnacle of a book relationship with its audience, intense up to the point where  readers cannot contain themselves and **need** to mark right there, in the book body, their opinion and/or additional comments. It is a very rich moment that needs to be shared, for even the note-takers tend to be surprised by their impact when rereading their notes. Sadly, these notes are usually wasted. The idea here is to make them social, in *mesh* formats.
+Reader [annotations](users.md) in book margins[^1] are (for me, at least) the pinnacle of a book relationship with its audience, intense up to the point where  readers cannot contain themselves and **need** to mark right there, in the book body, their opinion and/or additional comments. It is a very rich moment that needs to be shared, for even the note-takers tend to be surprised by their impact when rereading their notes. Sadly, these notes are usually wasted. The idea here is to make them social, in *[mesh](meshes.md)* formats.
 
 ---
 ### To do:
