@@ -1,7 +1,7 @@
 # Artificial Intelligence content optimization
 *Usage*
 
-The system should be able to discern content elements, group them into similar themes and attribute value to usual associations (following the idea that *neurons that fire together, wire together*) in a way that they become evident in [public meshes](meshes.md), as well as in the [information landscape](landscape.md), no matter how they were recorded.
+The system should be able to discern content elements, group them into similar themes and attribute value to usual associations (following the idea that *neurons that fire together, wire together*) in a way that they become evident in [public meshes](meshes.md), no matter how they were recorded.
 
 ## Distributed processing:
 

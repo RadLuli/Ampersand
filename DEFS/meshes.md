@@ -14,9 +14,7 @@ Among the many strengths of this format are:
 
 ## Automatic meshes
 
-When an electronic text document is imported into the Format, its index/TOC is copied to a mesh, and its ISBN (if available) is queried to manage its position in the [information landscape](landscape.md), and whether there are already any references to it or its authors.
-
-Scanned formats (.djvu, photocopy PDFs etc) can be digitized but will not generate automatic meshes. These formats are, gladly, increasingly uncommon.
+When an electronic text document is imported into the Format, its index/TOC is translated and optimised into a mesh. Scanned formats (.djvu, photocopy PDFs etc) can be digitized but will not generate automatic meshes. These formats are, gladly, increasingly uncommon.
 
 
 ## Annotations

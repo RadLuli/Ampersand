@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4eacaf23218f4b01",
+        "id": "d8499cd585657ca3",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,16 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4eacaf23218f4b01",
+  "active": "d8499cd585657ca3",
   "lastOpenFiles": [
-    "DEFS/__kitchen.md",
-    "ETC/markdown_syntax.md",
     "README.md",
-    "DEFS/landscape.md",
-    "DEFS/ebook.md",
-    "DEFS/app.md",
-    "DEFS/ai.md",
+    "DEFS/users.md",
+    "DEFS/social.md",
     "DEFS/oaf.md",
-    "About Me.md"
+    "DEFS/meshes.md",
+    "DEFS/marginalia.md",
+    "DEFS/landscape.md",
+    "DEFS/conduct.md",
+    "DEFS/app.md",
+    "DEFS/ai.md"
   ]
 }
